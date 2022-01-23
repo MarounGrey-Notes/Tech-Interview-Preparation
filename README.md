@@ -53,3 +53,5 @@ This question will show how the company values a break time.
 * While my current company was providing me a great opportunity to learn, I'm now ready to move on to a more challenging role, as I pursue my goal to become a strong developer (who is flexible to work with different types of technologies). I feel like your company offers me a great opportunity to continue my career trajectory towards that goal.
 * While my current company allows me to grow my skills in a challenging enviroment, I'm interested to see how other leadership styles work in a different organizations.
 
+### What are your best qualities?
+* I am the kind of person who will figure out what needs to be done on my own, figures out how to do it, and gets it done.
