@@ -46,11 +46,28 @@ This question will show how the company values a break time.
 
 ### Overemployment specific questions
 * What is your management style? (Anything that is not close to "Hands Off" is a potential red flag. I usually follow up their answer with “I find myself thriving in environments where I have a lot of autonomy and flexibility to plan my work day”)
-* Can you describe this position as meetings heavy role?
+* How many hours a week do you expect this role to spend in meetings?
 * What are the day to day responsobilities?
 * How does your manager/team feel about time chunking? (Time Chunking is the latest time management phrase for focus time. In other words, setting aside blocks of time to dedicate uninterrupted work time for a task. Usually 2-3 hours blocks.)
 * Is there a flexibility during the work day?
 * Can you describe the typical work day / work week?
+* How flexible is the schedule if I need to run errands, as long as I'm getting my work done?
+* How many hours a week do you expect this role to spend in meetings?
+*
+* What is the team's cadence?
+* How big is the team?
+* What are your thoughts on asynchronus work?
+* Does the team prioritize meetings or documentation?
+* Is there an expectation of cameras on during meetings?
+* How does the team minimize distruptions?
+* How does the team get solid focus time in?
+* What project methodology does your team use?
+* How does the workload break down between meetings, collaborative work and solo work?
+* What is your leadership style?
+* How do you like your job?
+* What keeps you up at night about this job?
+* How do you normally propagate status updates to your managers and stakeholders?
+* Since the beginning of the pandemic, we've seen a lot of companies adopt different strategies regards to remote work and meetings. What is your meeting culture like, and how do employees handle things like zoom fatigue?
 
 # Answers to common interview questions
 ### Why do you want to leave your current position?
