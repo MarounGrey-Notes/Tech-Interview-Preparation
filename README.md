@@ -1,6 +1,6 @@
 # Reverse Interview
-## Trap Questions
 
+## Trap Questions
 * **Who sets deadlines? How do you handle a missing deadline?**
 If the manager sets the deadline its a red flag. Only developers know how long something will take to implement changes. The correct answer should be that the developers and manager/business comes to an agreement what a reasonable deadline would be where they consider time to market, scope and balance it with everything else going on.
 * **What is the best thing working for this company?**
@@ -18,7 +18,6 @@ Stack ranking system is a big red flag
 * **How do people usually eat their lunches?**
 This question will show how the company values a break time.
 
-
 ## Non Trap Questions
 * Why the position is open? How long was the previous person on this position?
 * What would you say is a common challenges employees (or the previous person) face here?
@@ -30,8 +29,6 @@ This question will show how the company values a break time.
 * How do you measure performance, what sort of support do you offer for those not performing to your standarts to improve?
 * What can I start learning about today to make me more effective if I'm hired?
 * What does your onboarding process looks like? (If they expect to do most of the leg work, then avoid the company unless desperate)
-
-
 
 ### Tech specific questions
 * What's your testing methology? (Red flag is when there are no automated tests exist. If there is no testing implemented at all, RUN AWAY.)
@@ -46,6 +43,14 @@ This question will show how the company values a break time.
 * How much time do you allow your engineers to develop their skills outside of deliverables?
 * (for medium and big companies on site) Given new machine, can new engineer download, build and run all code in less then 30 mins? If not, what's stopping them?
 * What does successfull employee look like?
+
+### Overemployment specific questions
+* What is your management style? (Anything that is not close to "Hands Off" is a potential red flag. I usually follow up their answer with “I find myself thriving in environments where I have a lot of autonomy and flexibility to plan my work day”)
+* Can you describe this position as meetings heavy role?
+* What are the day to day responsobilities?
+* How does your manager/team feel about time chunking? (Time Chunking is the latest time management phrase for focus time. In other words, setting aside blocks of time to dedicate uninterrupted work time for a task. Usually 2-3 hours blocks.)
+* Is there a flexibility during the work day?
+* Can you describe the typical work day / work week?
 
 # Answers to common interview questions
 ### Why do you want to leave your current position?
