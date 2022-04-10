@@ -1,4 +1,5 @@
-# Reverse Interview
+# Reverse Interview<br>
+Note for later: Organize this stuff like better questions first, worse questions later. And make a section for top 5 or 10 questions.
 
 ## Trap Questions
 * **Who sets deadlines? How do you handle a missing deadline?**
@@ -81,6 +82,6 @@ This question will show how the company values a break time.
 # Negotiating the salary
 ## What is your curent salary?
 * I'd prefer not to say what my curent salary is because if it's higher then what you expect to pay for this job, I wouldn't want that to eliminate me frrom being considered for this job - because I might be willing to accept less for the right position - and , if it's lower then what this job would pay, I wouldn't want to sell myself shot either- I'm sure you can understand.
-## What is the rrange of your preferred salary?
+## What is the range of your preferred salary?
 * Well, if you tell me what the range is, even though I don't know enough to state exactly what my salary requirements are, I can tell you whether or not the range matches up to what am I looking for. 
 * It depends on the overall compensation including benefits.
