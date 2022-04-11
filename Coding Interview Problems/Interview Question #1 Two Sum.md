@@ -30,25 +30,24 @@ Array | Target | Return
 
     const arr = [1, 3, 7, 9, 2];
     const target = 11;
+    let i = 0;
 
-    for (i=0; i<arr.length-1; i++) {
+    function foo() {
 
-        let P1 = arr[i];
+        for (n=1; n<arr.length; n++) {
 
-        for (n=1; [SOMETHING]; n++) {
-
+            let P1 = arr[i];
             let P2 = arr[n];
             let NumToFind = P1+P2;
 
             if (NumToFind==target) {
-                console.log("yay " + P1 + " + " + P2 + " = " + target + " | n = " + n + "  i = " + i);
-            } else {
-               console.log("boo " + P1 + " + " + P2 + " != " + target + " | n = " + n + "  i = " + i);
+                console.log("[" + P1 + "," + P2 + "]");
             }
-
         }
 
-    console.log("new loop");
+        i++
     }
+
+    arr.forEach(foo);
 
 
