@@ -52,4 +52,32 @@ Array | Target | Return
 
 **Step 6: Test your brute force solution witrh test cases**
 
+**Step 7: Check if code can be optimized**
+
+    const findTwoSum = function (nums, target) {
+    
+        const numsMap = {};
+        
+        for (let p=0; p<nums.length; p++) {
+        
+            const currentMapVal = numsMap[nums[p]};
+            
+            if (currentMapVal >= 0) {
+            
+                return [currentMapVal, p];
+                
+             } else {
+             
+                const numberToFind = target - nums[p];   
+                numsMap[numberToFind] = p;
+             
+             }
+        
+        }
+        
+        return null;
+        
+     }
+     
+**Step 8: Test new optimal solution with our test cases & Space and Time Complexity**
 
