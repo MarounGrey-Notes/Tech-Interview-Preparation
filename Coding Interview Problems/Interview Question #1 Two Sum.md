@@ -28,26 +28,24 @@ Array | Target | Return
 
 **Step 4: Coding**
 
-    const arr = [1, 3, 7, 9, 2];
-    const target = 11;
-    let i = 0;
+    const findTwoSum = function(nums, target) {
+    
+        for (let P1 = 0; P1 < nums.length; P1++) {
 
-    function foo() {
+            const numberToFind = target - nums[p1];
 
-        for (n=1; n<arr.length; n++) {
+            for (P2 = P1+1; P2 < nums.length; P2++) {
+            
+                if (numberToFind === nums[P2]) {
+                    return [P1, P2];
+                }
 
-            let P1 = arr[i];
-            let P2 = arr[n];
-            let NumToFind = P1+P2;
-
-            if (NumToFind==target) {
-                console.log("[" + P1 + "," + P2 + "]");
             }
+
         }
-
-        i++
+        
+     return null;
+    
     }
-
-    arr.forEach(foo);
-
-
+    
+**Step 5: Double Check for errors**
