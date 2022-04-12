@@ -49,3 +49,7 @@ Array | Target | Return
     }
     
 **Step 5: Double Check for errors**
+
+**Step 6: Test your brute force solution witrh test cases**
+
+
