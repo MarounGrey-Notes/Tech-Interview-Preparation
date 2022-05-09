@@ -1,3 +1,9 @@
+# Interview Most Used
+### Why do you want to leave your current position?
+* While my current company was providing me a great opportunity to learn, I'm now ready to move on to a more challenging role, as I pursue my goal to become a strong developer (who is flexible to work with different types of technologies). I feel like your company offers me a great opportunity to continue my career trajectory towards that goal.
+### What are your salary expectations?
+* I am open to discussion regarding my salary expectations. However, given my salary in my previous position as well as my industry knowledge and experience, I feel that a salary between the range of $xx,000 and $xx,000 is fair.
+
 # Reverse Interview<br>
 Note for later: Organize this stuff like better questions first, worse questions later. And make a section for top 5 or 10 questions.
 
