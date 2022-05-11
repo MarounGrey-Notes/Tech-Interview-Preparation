@@ -60,7 +60,6 @@ This question will show how the company values a break time.
 * Can you describe the typical work day / work week?
 * How flexible is the schedule if I need to run errands, as long as I'm getting my work done?
 * How many hours a week do you expect this role to spend in meetings?
-*
 * What is the team's cadence?
 * How big is the team?
 * What are your thoughts on asynchronus work?
