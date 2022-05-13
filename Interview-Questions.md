@@ -1,4 +1,6 @@
 # Interview Most Used
+### Where do you see yourself in the next 5 years?
+* In five years I see myself as a successfull software engineer who has benefitted the business and achieved my technical goals. I'd like to be a lead developer, have a large role in the projects and be able to mento junior devs.
 ### Why do you want to leave your current position?
 * There is no further advancement opportunities due to the management structurre.
 ### What are your salary expectations?
@@ -83,6 +85,14 @@ This question will show how the company values a break time.
 
 ### What are your best qualities?
 * I am the kind of person who will figure out what needs to be done on my own, figures out how to do it, and gets it done.
+
+### Where do you see yourself in five years?
+* I enjoy being an individual contributor, mentoring, and leveraging technology to add business value.
+
+# Situation-specific interview questions
+### Tell me about a conflict you had with your co-worker
+### Tell me about the time you failed to meet the deadline orr a project was at risk of failure.
+### What is the hardest technical project you'we worked on
 
 # Negotiating the salary
 ### What are your salary expectations?
