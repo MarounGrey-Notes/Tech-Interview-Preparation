@@ -1,15 +1,40 @@
-# Interview Most Used
-### Where do you see yourself in the next 5 years?
-* In five years I see myself as a successfull software engineer who has benefitted the business and achieved my technical goals. I'd like to be a lead developer, have a large role in the projects and be able to mento junior devs.
-### Why do you want to leave your current position?
-* There is no further advancement opportunities due to the management structurre.
-### What are your salary expectations?
+# Answers to common interview questions
+
+#### Why do you want to leave your current position?
+* Even though I'm working full time, its not actually a 40 hours per week and I'm looking for something more stable in terms of hours. (For small companies)
+* While my current company was providing me a great opportunity to learn, I'm now ready to move on to a more challenging role, as I pursue my goal to become a strong developer (who is flexible to work with different types of technologies). I feel like your company offers me a great opportunity to continue my career trajectory towards that goal.
+* While my current company allows me to grow my skills in a challenging enviroment, I'm interested to see how other leadership styles work in a different organizations.
+* There is no further advancement opportunities due to the management structure.
+
+#### What are your best qualities? | Why should we hire you?
+* I am the kind of person who will figure out what needs to be done on my own, figures out how to do it, and gets it done.
+* I care about delivering high quality work, and enjoy seeing people use what I have built.
+
+#### Where do you see yourself in five years?
+* I enjoy being an individual contributor, mentoring, and leveraging technology to add business value.
+* In five years I see myself as a successfull software engineer who has benefitted the business and achieved my technical goals. I'd like to be a lead developer, have a large role in the projects and be able to mentor junior devs.
+
+
+# Tough interview questions
+
+#### Tell me about a conflict you had with your co-worker
+#### Tell me about the time you failed to meet the deadline or a project was at risk of failure.
+#### What is the hardest technical project you'we worked on
+
+
+# Negotiating the salary
+
+#### What are your salary expectations?
 * I am open to discussion regarding my salary expectations. However, given my salary in my previous position as well as my industry knowledge and experience, I feel that a salary between the range of $xx,000 and $xx,000 is fair.
+#### What is your curent salary?
+* I'd prefer not to say what my curent salary is because if it's higher then what you expect to pay for this job, I wouldn't want that to eliminate me frrom being considered for this job - because I might be willing to accept less for the right position - and , if it's lower then what this job would pay, I wouldn't want to sell myself shot either- I'm sure you can understand.
+#### What is the range of your preferred salary?
+* Well, if you tell me what the range is, even though I don't know enough to state exactly what my salary requirements are, I can tell you whether or not the range matches up to what am I looking for. 
+* It depends on the overall compensation including benefits.
 
---------------------------------------- [REVERSE INTERVIEW ] --------------------------------------------------
+-----------------------------------------------------------------------------------------
 
-# Reverse Interview<br>
-Note for later: Organize this stuff like better questions first, worse questions later. And make a section for top 5 or 10 questions.
+# Reverse Interview
 
 ## Trap Questions
 * **Who sets deadlines? How do you handle a missing deadline?**
@@ -79,36 +104,5 @@ This question will show how the company values a break time.
 * How do you normally propagate status updates to your managers and stakeholders?
 * Since the beginning of the pandemic, we've seen a lot of companies adopt different strategies regards to remote work and meetings. What is your meeting culture like, and how do employees handle things like zoom fatigue?
 
--------------------------------------------[ANSWERING INTERVIEW QUESTIONS]----------------------------------------------
-
-# Answers to common interview questions
-### Why do you want to leave your current position?
-* Even though I'm working full time, its not actually a 40 hours per week and I'm looking for something more stable in terms of hours. (For small companies)
-* While my current company was providing me a great opportunity to learn, I'm now ready to move on to a more challenging role, as I pursue my goal to become a strong developer (who is flexible to work with different types of technologies). I feel like your company offers me a great opportunity to continue my career trajectory towards that goal.
-* While my current company allows me to grow my skills in a challenging enviroment, I'm interested to see how other leadership styles work in a different organizations.
-
-### What are your best qualities? | Why should we hire you?
-* I am the kind of person who will figure out what needs to be done on my own, figures out how to do it, and gets it done.
-* I care about delivering high quality work, and enjoy seeing people use what I have built.
-
-### Where do you see yourself in five years?
-* I enjoy being an individual contributor, mentoring, and leveraging technology to add business value.
-
-
-# Situation-specific interview questions
-### Tell me about a conflict you had with your co-worker
-### Tell me about the time you failed to meet the deadline orr a project was at risk of failure.
-### What is the hardest technical project you'we worked on
-
------------------------------------------------------------------------------------------
-
-# Negotiating the salary
-### What are your salary expectations?
-* I am open to discussion regarding my salary expectations. However, given my salary in my previous position as well as my industry knowledge and experience, I feel that a salary between the range of $xx,000 and $xx,000 is fair.
-### What is your curent salary?
-* I'd prefer not to say what my curent salary is because if it's higher then what you expect to pay for this job, I wouldn't want that to eliminate me frrom being considered for this job - because I might be willing to accept less for the right position - and , if it's lower then what this job would pay, I wouldn't want to sell myself shot either- I'm sure you can understand.
-### What is the range of your preferred salary?
-* Well, if you tell me what the range is, even though I don't know enough to state exactly what my salary requirements are, I can tell you whether or not the range matches up to what am I looking for. 
-* It depends on the overall compensation including benefits.
 
 
