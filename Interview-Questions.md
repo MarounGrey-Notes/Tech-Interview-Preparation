@@ -80,7 +80,7 @@ This question will show how the company values a break time.
 * (for medium and big companies on site) Given new machine, can new engineer download, build and run all code in less then 30 mins? If not, what's stopping them?
 * What does successfull employee look like?
 
-## OE questions
+## Culture questions
 * What is your management style? (Anything that is not close to "Hands Off" is a potential red flag. I usually follow up their answer with “I find myself thriving in environments where I have a lot of autonomy and flexibility to plan my work day”)
 * How many hours a week do you expect this role to spend in meetings?
 * What are the day to day responsobilities?
