@@ -1,7 +1,10 @@
 # Answers to common behavioral interview questions
+-----------------------------------------------------------------------------------------
 
 ### Why do you want to leave your current position?
 Although I've appreciated the valuable learning experience that my current company has provided me, I'm eager to take on new challenges as I pursue my goal of becoming a versatile developer with proficiency across various technologies. Given your company's reputation and industry standing, I believe that this role presents an excellent opportunity to continue my career growth and further advance towards that objective.
+
+### Tell me about yourself
 
 ### What are your best qualities? | Why should we hire you?
 In addition to my **strong technical skills** and **clean coding** abilities, I possess excellent soft skills. I care about delivering **high-quality work** and enjoy seeing other people use what I've build. I have strong **attention to detail**, **communication skills**, and the ability to **explain complex concepts** in simple terms. I'm **passionate** about web development, I enjoy finding creative solutions to problems, and highly enthusiastic about learning and growing in my field.
@@ -12,12 +15,13 @@ In five years, I see myself as a highly skilled and experienced software enginee
 
 # Tough interview questions
 
-### Tell me about a conflict you had with your co-worker
+### [CONFLICT] Tell me about a conflict you had with your co-worker
 I once had a conflict with a co-worker about a feature we were implementing in a web application. We had different ideas, but I initiated an open conversation where we listened to each other's perspectives and found a solution that combined the best elements of both our ideas. We established a better understanding of each other's work styles and perspectives, and this helped us work more effectively as a team going forward.
 
-### Tell me about the time you failed to meet the deadline or a project was at risk of failure.
+### [FAILURE] Tell me about the time you failed to meet the deadline or a project was at risk of failure.
 I once faced an unexpected issue during a project that put our timeline at risk. I immediately informed the project manager and team members and we worked together to find a solution. We adjusted the timeline, worked extra hours, and utilized additional resources to get the job done on time. The experience taught me to anticipate potential issues and communicate proactively with the team. It also showed me the value of working collaboratively to find solutions.
 
+### [AMBIGUITY]
 
 
 # Negotiating the salary
@@ -104,6 +108,10 @@ Sneaky way of checking if there are any signs of chaos within company's IT depar
 ### Is there a flexibility during the work day? || How flexible is the schedule if I need to run errands, as long as I'm getting my work done?
 
 ### How do you normally propagate status updates to your managers and stakeholders?
+
+
+
+-----------------------------------------------------------------------------------------
 
 
 
