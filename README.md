@@ -118,8 +118,15 @@ Sneaky way of checking if there are any signs of chaos within company's IT depar
 
 
 
+
+
+
+
+
+
+
 -----------------------------------------------------------------------------------------
-# Technical questions for Web Developers
+# Answers to Technical Questions for Web Developers
 
 
 ### What do you do if you can't work out a coding issue by yourself?
