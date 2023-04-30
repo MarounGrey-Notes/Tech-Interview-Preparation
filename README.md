@@ -1,33 +1,33 @@
 # Answers to common interview questions
 
-#### Why do you want to leave your current position?
-* Even though I'm working full time, its not actually a 40 hours per week and I'm looking for something more stable in terms of hours. (For small companies)
-* While my current company was providing me a great opportunity to learn, I'm now ready to move on to a more challenging role, as I pursue my goal to become a strong developer (who is flexible to work with different types of technologies). I feel like your company offers me a great opportunity to continue my career trajectory towards that goal.
-* While my current company allows me to grow my skills in a challenging enviroment, I'm interested to see how other leadership styles work in a different organizations.
-* There is no further advancement opportunities due to the management structure.
+### Why do you want to leave your current position?
+Although I've appreciated the valuable learning experience that my current company has provided me, I'm eager to take on new challenges as I pursue my goal of becoming a versatile developer with proficiency across various technologies. Given your company's reputation and industry standing, I believe that this role presents an excellent opportunity to continue my career growth and further advance towards that objective.
 
-#### What are your best qualities? | Why should we hire you?
-* I am the kind of person who will figure out what needs to be done on my own, figures out how to do it, and gets it done.
-* I care about delivering high quality work, and enjoy seeing people use what I have built.
+### What are your best qualities? | Why should we hire you?
+In addition to my **strong technical skills** and **clean coding** abilities, I possess excellent soft skills. I care about delivering **high-quality work** and enjoy seeing other people use what I've build. I have strong **attention to detail**, **communication skills**, and the ability to **explain complex concepts** in simple terms. I'm **passionate** about web development, I enjoy finding creative solutions to problems, and highly enthusiastic about learning and growing in my field.
 
-#### Where do you see yourself in five years?
-* I enjoy being an individual contributor, mentoring, and leveraging technology to add business value.
-* In five years I see myself as a successfull software engineer who has benefitted the business and achieved my technical goals. I'd like to be a lead developer, have a large role in the projects and be able to mentor junior devs.
+### Where do you see yourself in five years?
+In five years, I see myself as a highly skilled and experienced software engineer. My goal is to become an expert full-stack developer, and I plan to achieve this by staying up-to-date with the latest industry trends, attending relevant training and conferences, and actively seeking out new challenges and projects that allow me to develop my skills.
 
 
 # Tough interview questions
 
-#### Tell me about a conflict you had with your co-worker
-#### Tell me about the time you failed to meet the deadline or a project was at risk of failure.
-#### What is the hardest technical project you'we worked on
+### Tell me about a conflict you had with your co-worker
+I once had a conflict with a co-worker about a feature we were implementing in a web application. We had different ideas, but I initiated an open conversation where we listened to each other's perspectives and found a solution that combined the best elements of both our ideas. We established a better understanding of each other's work styles and perspectives, and this helped us work more effectively as a team going forward.
+
+### Tell me about the time you failed to meet the deadline or a project was at risk of failure.
+I once faced an unexpected issue during a project that put our timeline at risk. I immediately informed the project manager and team members and we worked together to find a solution. We adjusted the timeline, worked extra hours, and utilized additional resources to get the job done on time. The experience taught me to anticipate potential issues and communicate proactively with the team. It also showed me the value of working collaboratively to find solutions.
+
 
 
 # Negotiating the salary
 
 #### What are your salary expectations?
 * I am open to discussion regarding my salary expectations. However, given my salary in my previous position as well as my industry knowledge and experience, I feel that a salary between the range of $xx,000 and $xx,000 is fair.
+
 #### What is your curent salary?
 * I'd prefer not to say what my curent salary is because if it's higher then what you expect to pay for this job, I wouldn't want that to eliminate me frrom being considered for this job - because I might be willing to accept less for the right position - and , if it's lower then what this job would pay, I wouldn't want to sell myself shot either- I'm sure you can understand.
+
 #### What is the range of your preferred salary?
 * Well, if you tell me what the range is, even though I don't know enough to state exactly what my salary requirements are, I can tell you whether or not the range matches up to what am I looking for. 
 * It depends on the overall compensation including benefits.
@@ -103,3 +103,7 @@ This question will show how the company values a break time.
 * What keeps you up at night about this job?
 * How do you normally propagate status updates to your managers and stakeholders?
 * Since the beginning of the pandemic, we've seen a lot of companies adopt different strategies regards to remote work and meetings. What is your meeting culture like, and how do employees handle things like zoom fatigue?
+
+## Technical questions
+### What is the difference between framework and the library?
+A framework and a library are both tools that make the development process more efficient. A library is a collection of pre-written code or modules that developers can use in their projects.Examples of popular libraries include React, jQuery, and Bootstrap. A framework, on the other hand, is a pre-defined architecture that provides a structure for building applications.Examples of popular frameworks include Ruby on Rails, Django, and AngularJS.
