@@ -24,35 +24,36 @@ I once faced an unexpected issue during a project that put our timeline at risk.
 
 #### What are your salary expectations?
 * I am open to discussion regarding my salary expectations. However, given my salary in my previous position as well as my industry knowledge and experience, I feel that a salary between the range of $xx,000 and $xx,000 is fair.
+* May I ask about the salary range budgeted for this position? I'm interested in the role and want to make sure my expectations align with what the company has budgeted for this position. I'm also open to discussing other components of the compensation package, such as benefits or bonuses, that may be part of the offer.
+* I'm looking for a salary that's competitive for someone with my skills and experience, and that fairly reflects the value I can bring to the company. I'm open to discussing specific compensation details once I learn more about the position, its responsibilities, and the overall compensation package.
 
-#### What is your curent salary?
-* I'd prefer not to say what my curent salary is because if it's higher then what you expect to pay for this job, I wouldn't want that to eliminate me frrom being considered for this job - because I might be willing to accept less for the right position - and , if it's lower then what this job would pay, I wouldn't want to sell myself shot either- I'm sure you can understand.
 
-#### What is the range of your preferred salary?
-* Well, if you tell me what the range is, even though I don't know enough to state exactly what my salary requirements are, I can tell you whether or not the range matches up to what am I looking for. 
-* It depends on the overall compensation including benefits.
 
 -----------------------------------------------------------------------------------------
 
 # Reverse Interview
 
 ## Trap Questions
-* **Who sets deadlines? How do you handle a missing deadline?**
-If the manager sets the deadline its a red flag. Only developers know how long something will take to implement changes. The correct answer should be that the developers and manager/business comes to an agreement what a reasonable deadline would be where they consider time to market, scope and balance it with everything else going on.
-* **What is the best thing working for this company?**
-If responds We are big family or we have a free coffee, game rooms, employee hangouts - run away.
+* **How does the management track performance? What steps are taken to help employees to reach their goals?**
+Very important question. Stack ranking is a red flag. If the position is remote - tracking software is a 10 red flags.
 * **What are some challenges you have found working here?**
 Ask this on the technical interview, since developers tend to be more honest and this is a great opportunity to learn downsides of the company.
-* **Who get's called when software breaks at 3am? Why?**
-This is a great opportunity to look how the company values the personal time of the employees and how they act when something breaks.
+* **What is the best thing working for this company?**
+If responds We are big family or we have a free coffee, game rooms, employee hangouts, etc. - run away. 
 * **Who is the best employee and what makes them the best?**
 'Works well under the pressure', 'doesn't know the end of the day', etc - means that the company values quantity over quality.
 * **Who I will be reporting to?**
 Red flag if interviewer cant give a straight answer or give multiple names.
-* **How does the management track performance? What steps are taken to help employees to reach their goals?**
-Stack ranking system is a big red flag
+
+#### (if the company didn't give you enough red flags yet, you can ask following):
+* **Who sets deadlines? How do you handle a missing deadline?**
+If the manager sets the deadline its a red flag. Only developers know how long something will take to implement changes. The correct answer should be that the developers and manager/business comes to an agreement what a reasonable deadline would be where they consider time to market, scope and balance it with everything else going on.
+* **Who get's called when software breaks at 3am? Why?**
+This is a great opportunity to look how the company values the personal time of the employees and how they act when something breaks.
 * **How do people usually eat their lunches?**
 This question will show how the company values a break time.
+
+
 
 ## Non Trap Questions
 * Why the position is open? How long was the previous person on this position?
@@ -71,7 +72,7 @@ This question will show how the company values a break time.
 * How often are your engineers deliver a change into production?
 * How quickly from identifying a bug, can the required change be in the customer's hands?
 * Do engineers own / control their production infrastructure?
-* *What happens if you discover a bug right after deployment? (a sneaky way of asking if developers have access to production)
+* What happens if you discover a bug right after deployment? (a sneaky way of asking if developers have access to production)
 
 * Who prioritises what's being worked on? And what is the process for this?
 * How much input do developers have on project design? (Is it only on the coding level or are developers involved in the design?)
@@ -104,6 +105,6 @@ This question will show how the company values a break time.
 * How do you normally propagate status updates to your managers and stakeholders?
 * Since the beginning of the pandemic, we've seen a lot of companies adopt different strategies regards to remote work and meetings. What is your meeting culture like, and how do employees handle things like zoom fatigue?
 
-## Technical questions
+# Technical questions
 ### What is the difference between framework and the library?
 A framework and a library are both tools that make the development process more efficient. A library is a collection of pre-written code or modules that developers can use in their projects.Examples of popular libraries include React, jQuery, and Bootstrap. A framework, on the other hand, is a pre-defined architecture that provides a structure for building applications.Examples of popular frameworks include Ruby on Rails, Django, and AngularJS.
