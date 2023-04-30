@@ -1,4 +1,4 @@
-# Answers to common interview questions
+# Answers to common behavioral interview questions
 
 ### Why do you want to leave your current position?
 Although I've appreciated the valuable learning experience that my current company has provided me, I'm eager to take on new challenges as I pursue my goal of becoming a versatile developer with proficiency across various technologies. Given your company's reputation and industry standing, I believe that this role presents an excellent opportunity to continue my career growth and further advance towards that objective.
@@ -34,76 +34,78 @@ I once faced an unexpected issue during a project that put our timeline at risk.
 # Reverse Interview
 
 ## Trap Questions
-* **How does the management track performance? What steps are taken to help employees to reach their goals?**
-Very important question. Stack ranking is a red flag. If the position is remote - tracking software is a 10 red flags.
-* **What are some challenges you have found working here?**
+### What is your management style? || How do you measure performance, what sort of support do you offer for those not performing to your standarts to improve? || How does the management track performance? What steps are taken to help employees to reach their goals?
+Very important question. Stack ranking is a red flag. If the position is remote - tracking software is 10 red flags. Anything that is not close to "Hands Off" is a potential red flag. I usually follow up their answer with “I find myself thriving in environments where I have a lot of autonomy and flexibility to plan my work day”
+
+### What are some challenges you (or other employees) have found working here?
 Ask this on the technical interview, since developers tend to be more honest and this is a great opportunity to learn downsides of the company.
-* **What is the best thing working for this company?**
+
+### What is the best thing working for this company?
 If responds We are big family or we have a free coffee, game rooms, employee hangouts, etc. - run away. 
-* **Who is the best employee and what makes them the best?**
+
+### Who is the best employee and what makes them the best? (What types of charasteristics would a successful candidate have?)
 'Works well under the pressure', 'doesn't know the end of the day', etc - means that the company values quantity over quality.
-* **Who I will be reporting to?**
+
+### Who I will be reporting to?
 Red flag if interviewer cant give a straight answer or give multiple names.
 
-#### (if the company didn't give you enough red flags yet, you can ask following):
-* **Who sets deadlines? How do you handle a missing deadline?**
+### Why the position is open? How long was the previous person on this position?
+
+### If I get hired, what do you expect for me to achieve on 30/60/90 days working here?
+
+### What is the remote policy?
+
+### What does your onboarding process looks like?
+If they expect to do most of the leg work, then avoid the company unless desperate
+
+### Who sets deadlines? How do you handle a missing deadline?
 If the manager sets the deadline its a red flag. Only developers know how long something will take to implement changes. The correct answer should be that the developers and manager/business comes to an agreement what a reasonable deadline would be where they consider time to market, scope and balance it with everything else going on.
-* **Who get's called when software breaks at 3am? Why?**
+
+### Who get's called when software breaks at 3am? Why?
 This is a great opportunity to look how the company values the personal time of the employees and how they act when something breaks.
-* **How do people usually eat their lunches?**
+
+### How do people usually eat their lunches?
 This question will show how the company values a break time.
 
 
 
-## Non Trap Questions
-* Why the position is open? How long was the previous person on this position?
-* What would you say is a common challenges employees (or the previous person) face here?
-* What is the management style look like?
-* What is the remote policy?
+## Tech Reverse interview questions
 
-* What types of charasteristics would a successful candidate have?
-* If I get hired, what do you expect for me to achieve on 30/60/90 days working here?
-* How do you measure performance, what sort of support do you offer for those not performing to your standarts to improve?
-* What can I start learning about today to make me more effective if I'm hired?
-* What does your onboarding process looks like? (If they expect to do most of the leg work, then avoid the company unless desperate)
+### How big is the team?
 
-## Tech specific questions
-* What's your testing methology? (Red flag is when there are no automated tests exist. If there is no testing implemented at all, RUN AWAY.)
-* How often are your engineers deliver a change into production?
-* How quickly from identifying a bug, can the required change be in the customer's hands?
-* Do engineers own / control their production infrastructure?
-* What happens if you discover a bug right after deployment? (a sneaky way of asking if developers have access to production)
+### What's your testing methology?
+Red flag is when there are no automated tests exist. If there is no testing implemented at all, RUN AWAY.
 
-* Who prioritises what's being worked on? And what is the process for this?
-* How much input do developers have on project design? (Is it only on the coding level or are developers involved in the design?)
+### Do engineers own / control their production infrastructure? What happens if you discover a bug right after deployment?
+A way of asking if developers have access to production.
 
-* How much time do you allow your engineers to develop their skills outside of deliverables?
-* (for medium and big companies on site) Given new machine, can new engineer download, build and run all code in less then 30 mins? If not, what's stopping them?
-* What does successfull employee look like?
+### How often are your engineers deliver a change into production? How quickly from identifying a bug, can the required change be in the customer's hands?
+Sometimes company is working with a contractors agency and they want in-house developer. But the company might not own their code. Better to avoid.
 
-## Culture questions
-* What is your management style? (Anything that is not close to "Hands Off" is a potential red flag. I usually follow up their answer with “I find myself thriving in environments where I have a lot of autonomy and flexibility to plan my work day”)
-* How many hours a week do you expect this role to spend in meetings?
-* What are the day to day responsobilities?
-* How does your manager/team feel about time chunking? (Time Chunking is the latest time management phrase for focus time. In other words, setting aside blocks of time to dedicate uninterrupted work time for a task. Usually 2-3 hours blocks.)
-* Is there a flexibility during the work day?
-* Can you describe the typical work day / work week?
-* How flexible is the schedule if I need to run errands, as long as I'm getting my work done?
-* How many hours a week do you expect this role to spend in meetings?
-* What is the team's cadence?
-* How big is the team?
-* What are your thoughts on asynchronus work?
-* Does the team prioritize meetings or documentation?
-* Is there an expectation of cameras on during meetings?
-* How does the team minimize distruptions?
-* How does the team get solid focus time in?
-* What project methodology does your team use?
-* How does the workload break down between meetings, collaborative work and solo work?
-* What is your leadership style?
-* How do you like your job?
-* What keeps you up at night about this job?
-* How do you normally propagate status updates to your managers and stakeholders?
-* Since the beginning of the pandemic, we've seen a lot of companies adopt different strategies regards to remote work and meetings. What is your meeting culture like, and how do employees handle things like zoom fatigue?
+### How much input do developers have on project design?
+Is it only on the coding level or are developers involved in the design? If design gets created without developer's input thatd a red flag.
+
+### Who prioritises what's being worked on? And what is the process for this?
+
+### How much time do you allow your engineers to develop their skills outside of deliverables?
+
+### (for medium and big companies on site) Given new machine, can new engineer download, build and run all code in less then 30 mins? If not, what's stopping them?
+Sneaky way of checking if there are any signs of chaos within company's IT department,
+
+
+## Meetings Reverse Questions
+
+### How many hours a week do you expect this role to spend in meetings? What is your meeting culture like?
+
+### What are the day to day responsobilities? || Can you describe the typical work day / work week?
+
+### How does your manager/team feel about time chunking? (Time Chunking is the latest time management phrase for focus time. In other words, setting aside blocks of time to dedicate uninterrupted work time for a task. Usually 2-3 hours blocks.)
+
+### Is there a flexibility during the work day? || How flexible is the schedule if I need to run errands, as long as I'm getting my work done?
+
+### How do you normally propagate status updates to your managers and stakeholders?
+
+
 
 # Technical questions
 ### What is the difference between framework and the library?
