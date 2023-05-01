@@ -26,9 +26,12 @@ I once faced an unexpected issue during a project that put our timeline at risk.
 ### [AMBIGUITY] Tell me about a time when you had to work on a project without clear guidelines or direction. How did you handle the ambiguity?
 In a previous project, I developed a website for a client who had a general idea of what they wanted but **didn't provide clear guidelines**. To handle the ambiguity, I scheduled a meeting to **clarify their requirements**, conducted research, and developed a detailed **project plan**. I **communicated regularly** with the client and completed the project **on time** and within budget, delivering a modern and user-friendly design.
 
+
+
+-----------------------------------------------------------------------------------------
 # Negotiating the salary
 
-#### What are your salary expectations?
+### What are your salary expectations?
 * I am open to discussion regarding my salary expectations. However, given my salary in my previous position as well as my industry knowledge and experience, I feel that a salary between the range of $xx,000 and $xx,000 is fair.
 * May I ask about the salary range budgeted for this position? I'm interested in the role and want to make sure my expectations align with what the company has budgeted for this position. I'm also open to discussing other components of the compensation package, such as benefits or bonuses, that may be part of the offer.
 * I'm looking for a salary that's competitive for someone with my skills and experience, and that fairly reflects the value I can bring to the company. I'm open to discussing specific compensation details once I learn more about the position, its responsibilities, and the overall compensation package.
@@ -38,7 +41,7 @@ In a previous project, I developed a website for a client who had a general idea
 -----------------------------------------------------------------------------------------
 # Reverse Interview
 
-## Culture & Management style Questions
+
 ### What is your management style? || How do you measure performance, what sort of support do you offer for those not performing to your standarts to improve? || How does the management track performance? What steps are taken to help employees to reach their goals?
 Very important question. Stack ranking is a red flag. If the position is remote - tracking software is 10 red flags. Anything that is not close to "Hands Off" is a potential red flag. I usually follow up their answer with “I find myself thriving in environments where I have a lot of autonomy and flexibility to plan my work day”
 
@@ -76,8 +79,8 @@ This is a great opportunity to look how the company values the personal time of 
 This question will show how the company values a break time.
 
 
-
-## Tech Reverse interview questions
+-----------------------------------------------------------------------------------------
+# Tech Reverse interview questions
 
 ### How big is the team?
 
@@ -101,7 +104,8 @@ Is it only on the coding level or are developers involved in the design? If desi
 Sneaky way of checking if there are any signs of chaos within company's IT department,
 
 
-## Meetings Culture Reverse Questions
+-----------------------------------------------------------------------------------------
+# Meetings Culture Reverse Questions
 
 ### How many hours a week do you expect this role to spend in meetings? What is your meeting culture like?
 
@@ -114,26 +118,18 @@ Sneaky way of checking if there are any signs of chaos within company's IT depar
 ### How do you normally propagate status updates to your managers and stakeholders?
 
 
-
-
-
-
-
-
-
-
-
-
-
 -----------------------------------------------------------------------------------------
 # Answers to Technical Questions for Web Developers
 
 
 ### What do you do if you can't work out a coding issue by yourself?
+If I cannot solve a coding issue by myself, I typically consult documentation, search online resources, and collaborate with colleagues or online communities to find a solution. I believe that asking for help is an essential part of problem-solving and leads to better outcomes in software development.
 
 ### How would you typically go about a creating a web app?
+To create a web app, you need to define the requirements, design the user interface, choose a technology stack, develop the app, test and debug it, deploy it, and maintain and update it. It requires technical and creative skills, attention to detail, and a focus on user experience
 
 ### If there is a bug causing the issues on a web page, how would you troubleshoot?
+To troubleshoot a bug causing issues on a web page, I would reproduce the issue, inspect the code using browser developer tools, check the console for errors, use debugging tools, test fixes, and refactor the code if necessary. It requires technical skills, attention to detail, and persistence to identify and fix the issue.
 
 ### What is the difference between framework and the library?
 A framework and a library are both tools that make the development process more efficient. A library is a collection of pre-written code or modules that developers can use in their projects.Examples of popular libraries include React, jQuery, and Bootstrap. A framework, on the other hand, is a pre-defined architecture that provides a structure for building applications.Examples of popular frameworks include Ruby on Rails, Django, and AngularJS.
