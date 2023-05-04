@@ -35,7 +35,7 @@ In a previous project, I developed a website for a client who had a general idea
 * I am open to discussion regarding my salary expectations. However, given my salary in my previous position as well as my industry knowledge and experience, I feel that a salary between the range of $xx,000 and $xx,000 is fair.
 * May I ask about the salary range budgeted for this position? I'm interested in the role and want to make sure my expectations align with what the company has budgeted for this position. I'm also open to discussing other components of the compensation package, such as benefits or bonuses, that may be part of the offer.
 * I'm looking for a salary that's competitive for someone with my skills and experience, and that fairly reflects the value I can bring to the company. I'm open to discussing specific compensation details once I learn more about the position, its responsibilities, and the overall compensation package.
-
+* I'm flexible when it comes to hourly rate and am open to discussing what you have in mind. Based on my experience and the industry standard in this location, I believe a fair hourly rate would be [insert your desired rate or range based on your research], but I'm open to negotiation depending on the other factors such as benefits, perks, and other forms of compensation. Ultimately, I'm looking for a role that values my skills and expertise and offers a fair compensation package.
 
 
 -----------------------------------------------------------------------------------------
