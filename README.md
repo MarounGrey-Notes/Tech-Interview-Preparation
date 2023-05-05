@@ -170,6 +170,7 @@ The main difference is that `window.onload` waits for all resources to finish lo
 ### What is CDN
 
 ### What are CSS selectors?
+CSS selectors are patterns used to select specific HTML elements on a web page for styling. There are different types of selectors, including element, class, ID, attribute, and pseudo-selectors. They can be combined and nested together to target elements with more precision.
 
 ### What are pseudo-classes?
 
