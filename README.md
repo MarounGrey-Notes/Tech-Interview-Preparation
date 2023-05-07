@@ -20,6 +20,9 @@ In five years, I see myself as a highly skilled and experienced software enginee
 
 # Tough interview questions
 
+
+### What did you hate about your previous job
+
 ### [CONFLICT] Tell me about a conflict you had with your co-worker
 I once had a conflict with a co-worker about a feature we were implementing in a web application. We had different ideas, but I initiated an open conversation where we listened to each other's perspectives and found a solution that combined the best elements of both our ideas. We established a better understanding of each other's work styles and perspectives, and this helped us work more effectively as a team going forward.
 
