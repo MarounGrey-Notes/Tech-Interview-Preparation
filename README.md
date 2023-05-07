@@ -15,6 +15,7 @@ In five years, I see myself as a highly skilled and experienced software enginee
 
 ### What is your proudest achievements and why is it important?
 
+-----------------------------------------------------------------------------------------
 # Tough interview questions
 
 ### Why do you want to leave your current position?
@@ -36,7 +37,6 @@ I once faced an unexpected issue during a project that put our timeline at risk.
 In a previous project, I developed a website for a client who had a general idea of what they wanted but **didn't provide clear guidelines**. To handle the ambiguity, I scheduled a meeting to **clarify their requirements**, conducted research, and developed a detailed **project plan**. I **communicated regularly** with the client and completed the project **on time** and within budget, delivering a modern and user-friendly design.
 
 
-
 -----------------------------------------------------------------------------------------
 # Negotiating the salary
 
@@ -46,90 +46,32 @@ In a previous project, I developed a website for a client who had a general idea
 * I'm looking for a salary that's competitive for someone with my skills and experience, and that fairly reflects the value I can bring to the company. I'm open to discussing specific compensation details once I learn more about the position, its responsibilities, and the overall compensation package.
 * I'm flexible when it comes to hourly rate and am open to discussing what you have in mind. Based on my experience and the industry standard in this location, I believe a fair hourly rate would be [insert your desired rate or range based on your research], but I'm open to negotiation depending on the other factors such as benefits, perks, and other forms of compensation. Ultimately, I'm looking for a role that values my skills and expertise and offers a fair compensation package.
 
-
 -----------------------------------------------------------------------------------------
-# Reverse Interview
+# Answers to Managerial questions
 
+### Can you describe your experience leading an ecommerce operations team?
 
-### What is your management style? || How do you measure performance, what sort of support do you offer for those not performing to your standarts to improve? || How does the management track performance? What steps are taken to help employees to reach their goals?
-Very important question. Stack ranking is a red flag. If the position is remote - tracking software is 10 red flags. Anything that is not close to "Hands Off" is a potential red flag. I usually follow up their answer with “I find myself thriving in environments where I have a lot of autonomy and flexibility to plan my work day”
+### How would you develop and implement strategies to improve online sales and customer experience?
 
-### What are some challenges you (or other employees) have found working here?
-Ask this on the technical interview, since developers tend to be more honest and this is a great opportunity to learn downsides of the company.
+### What is your experience with B2B and B2C ecommerce businesses?
 
-### What is the best thing working for this company?
-If responds We are big family or we have a free coffee, game rooms, employee hangouts, etc. - run away. 
+### Can you discuss a time when you successfully rebuilt an ecommerce business to deliver renewed competitive advantage?
 
-### Who is the best employee and what makes them the best? (What types of charasteristics would a successful candidate have?)
-'Works well under the pressure', 'doesn't know the end of the day', etc - means that the company values quantity over quality.
+### How do you stay up-to-date with the latest technology and trends in ecommerce and web operations?
 
-### Who I will be reporting to?
-Red flag if interviewer cant give a straight answer or give multiple names.
+### Can you provide an example of a project you led that resulted in a significant increase in online sales or improved customer experience?
 
-### Why the position is open? How long was the previous person on this position?
-This question can help to uncover red flags such as: high turnover rate, lack of growth opportunities, misaligned expectations, and unprofessional or unethical behavior.
+### How do you prioritize and manage competing demands in a fast-paced ecommerce environment?
 
-### If I get hired, what do you expect for me to achieve on 30/60/90 days working here?
-This question can provide insides into the employer's priorities and potential issues, such as unrealistic expectations or lack of direction. If the employer can't clearly articulate what they expect you to achieve in the first 30/60/90 days, it could indicate that they lack direction or have poor communication skills.
+### Can you describe a time when you had to make a difficult decision related to ecommerce or web operations?
 
-### What is the remote policy?
-If the employer has a remote work policy, but it's overly restrictive or requires excessive monitoring, it could indicate a lack of trust in employees or a micromanagement culture.
+### How do you collaborate with other departments, such as Marketing and Executive teams, to achieve business objectives?
 
-### What does your onboarding process looks like?
-If they expect to do most of the leg work, then avoid the company unless desperate
-
-### Who sets deadlines? How do you handle a missing deadline?
-If the manager sets the deadline its a red flag. Only developers know how long something will take to implement changes. The correct answer should be that the developers and manager/business comes to an agreement what a reasonable deadline would be where they consider time to market, scope and balance it with everything else going on.
-
-### Who get's called when software breaks at 3am? Why?
-This is a great opportunity to look how the company values the personal time of the employees and how they act when something breaks.
-
-### How do people usually eat their lunches?
-This question will show how the company values a break time.
-
-
------------------------------------------------------------------------------------------
-# Tech Reverse interview questions
-
-### How big is the team?
-
-### What's your testing methology?
-Red flag is when there are no automated tests exist. If there is no testing implemented at all, RUN AWAY.
-
-### Do engineers own / control their production infrastructure? What happens if you discover a bug right after deployment?
-A way of asking if developers have access to production.
-
-### How often are your engineers deliver a change into production? How quickly from identifying a bug, can the required change be in the customer's hands?
-Sometimes company is working with a contractors agency and they want in-house developer. But the company might not own their code. Better to avoid.
-
-### How much input do developers have on project design?
-Is it only on the coding level or are developers involved in the design? If design gets created without developer's input thatd a red flag.
-
-### Who prioritises what's being worked on? And what is the process for this?
-
-### How much time do you allow your engineers to develop their skills outside of deliverables?
-
-### (for medium and big companies on site) Given new machine, can new engineer download, build and run all code in less then 30 mins? If not, what's stopping them?
-Sneaky way of checking if there are any signs of chaos within company's IT department,
-
-
------------------------------------------------------------------------------------------
-# Meetings Culture Reverse Questions
-
-### How many hours a week do you expect this role to spend in meetings? What is your meeting culture like?
-
-### What are the day to day responsobilities? || Can you describe the typical work day / work week?
-
-### How does your manager/team feel about time chunking? (Time Chunking is the latest time management phrase for focus time. In other words, setting aside blocks of time to dedicate uninterrupted work time for a task. Usually 2-3 hours blocks.)
-
-### Is there a flexibility during the work day? || How flexible is the schedule if I need to run errands, as long as I'm getting my work done?
-
-### How do you normally propagate status updates to your managers and stakeholders?
+### What do you think are the most important skills for a successful Ecommerce, eContent and Web Operations Director, and how do you embody those skills?
 
 
 -----------------------------------------------------------------------------------------
 # Answers to Technical Questions for Web Developers
-
 
 ### What do you do if you can't work out a coding issue by yourself?
 If I cannot solve a coding issue by myself, I typically consult documentation, search online resources, and collaborate with colleagues or online communities to find a solution. I believe that asking for help is an essential part of problem-solving and leads to better outcomes in software development.
@@ -185,4 +127,82 @@ CSS selectors are patterns used to select specific HTML elements on a web page f
 
 ### Explain API
 
+
+<img align="center" height="150" src="https://media.tenor.com/OruQmLUh0nIAAAAd/funny-interview.gif"  />
+
+-----------------------------------------------------------------------------------------
+# Reverse Interview
+
+### What is your management style? || How do you measure performance, what sort of support do you offer for those not performing to your standarts to improve? || How does the management track performance? What steps are taken to help employees to reach their goals?
+Very important question. Stack ranking is a red flag. If the position is remote - tracking software is 10 red flags. Anything that is not close to "Hands Off" is a potential red flag. I usually follow up their answer with “I find myself thriving in environments where I have a lot of autonomy and flexibility to plan my work day”
+
+### What are some challenges you (or other employees) have found working here?
+Ask this on the technical interview, since developers tend to be more honest and this is a great opportunity to learn downsides of the company.
+
+### What is the best thing working for this company?
+If responds We are big family or we have a free coffee, game rooms, employee hangouts, etc. - run away. 
+
+### Who is the best employee and what makes them the best? (What types of charasteristics would a successful candidate have?)
+'Works well under the pressure', 'doesn't know the end of the day', etc - means that the company values quantity over quality.
+
+### Who I will be reporting to?
+Red flag if interviewer cant give a straight answer or give multiple names.
+
+### Why the position is open? How long was the previous person on this position?
+This question can help to uncover red flags such as: high turnover rate, lack of growth opportunities, misaligned expectations, and unprofessional or unethical behavior.
+
+### If I get hired, what do you expect for me to achieve on 30/60/90 days working here?
+This question can provide insides into the employer's priorities and potential issues, such as unrealistic expectations or lack of direction. If the employer can't clearly articulate what they expect you to achieve in the first 30/60/90 days, it could indicate that they lack direction or have poor communication skills.
+
+### What is the remote policy?
+If the employer has a remote work policy, but it's overly restrictive or requires excessive monitoring, it could indicate a lack of trust in employees or a micromanagement culture.
+
+### What does your onboarding process looks like?
+If they expect to do most of the leg work, then avoid the company unless desperate
+
+### Who sets deadlines? How do you handle a missing deadline?
+If the manager sets the deadline its a red flag. Only developers know how long something will take to implement changes. The correct answer should be that the developers and manager/business comes to an agreement what a reasonable deadline would be where they consider time to market, scope and balance it with everything else going on.
+
+### Who get's called when software breaks at 3am? Why?
+This is a great opportunity to look how the company values the personal time of the employees and how they act when something breaks.
+
+### How do people usually eat their lunches?
+This question will show how the company values a break time.
+
+-----------------------------------------------------------------------------------------
+# Tech Reverse interview questions
+
+### How big is the team?
+
+### What's your testing methology?
+Red flag is when there are no automated tests exist. If there is no testing implemented at all, RUN AWAY.
+
+### Do engineers own / control their production infrastructure? What happens if you discover a bug right after deployment?
+A way of asking if developers have access to production.
+
+### How often are your engineers deliver a change into production? How quickly from identifying a bug, can the required change be in the customer's hands?
+Sometimes company is working with a contractors agency and they want in-house developer. But the company might not own their code. Better to avoid.
+
+### How much input do developers have on project design?
+Is it only on the coding level or are developers involved in the design? If design gets created without developer's input thatd a red flag.
+
+### Who prioritises what's being worked on? And what is the process for this?
+
+### How much time do you allow your engineers to develop their skills outside of deliverables?
+
+### (for medium and big companies on site) Given new machine, can new engineer download, build and run all code in less then 30 mins? If not, what's stopping them?
+Sneaky way of checking if there are any signs of chaos within company's IT department,
+
+-----------------------------------------------------------------------------------------
+# Meetings Culture Reverse Questions
+
+### How many hours a week do you expect this role to spend in meetings? What is your meeting culture like?
+
+### What are the day to day responsobilities? || Can you describe the typical work day / work week?
+
+### How does your manager/team feel about time chunking? (Time Chunking is the latest time management phrase for focus time. In other words, setting aside blocks of time to dedicate uninterrupted work time for a task. Usually 2-3 hours blocks.)
+
+### Is there a flexibility during the work day? || How flexible is the schedule if I need to run errands, as long as I'm getting my work done?
+
+### How do you normally propagate status updates to your managers and stakeholders?
 
