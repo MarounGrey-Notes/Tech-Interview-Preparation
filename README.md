@@ -7,9 +7,6 @@ Hi, my name is [Your Name], and I'm a web developer. I've always been interested
 ### Why do you want this job?
 After researching the company's vision and mission statements, I've discovered that our values are strongly aligned. As a passionate and skilled web developer, I prioritize delivering exceptional results and take great satisfaction in seeing users interact with my creations. I am confident that my experience and expertise make me an excellent candidate to contribute positively to your team and help achieve the company's goals. Additionally, the prospect of working alongside industry experts and advancing my professional growth is particularly exciting to me. Overall, I am highly motivated to join your team and have a meaningful impact in the field of web development.
 
-### Why do you want to leave your current position?
-Although I've appreciated the valuable learning experience that my current company has provided me, I'm eager to take on new challenges as I pursue my goal of becoming a versatile developer with proficiency across various technologies. Given your company's reputation and industry standing, I believe that this role presents an excellent opportunity to continue my career growth and further advance towards that objective.
-
 ### What are your best qualities? | Why should we hire you?
 In addition to my **strong technical skills** and **clean coding** abilities, I possess excellent soft skills. I care about delivering **high-quality work** and enjoy seeing other people use what I've build. I have strong **attention to detail**, **communication skills**, and the ability to **explain complex concepts** in simple terms. I'm **passionate** about web development, I enjoy finding creative solutions to problems, and highly enthusiastic about learning and growing in my field.
 
@@ -20,6 +17,8 @@ In five years, I see myself as a highly skilled and experienced software enginee
 
 # Tough interview questions
 
+### Why do you want to leave your current position?
+Although I've appreciated the valuable learning experience that my current company has provided me, I'm eager to take on new challenges as I pursue my goal of becoming a versatile developer with proficiency across various technologies. Given your company's reputation and industry standing, I believe that this role presents an excellent opportunity to continue my career growth and further advance towards that objective.
 
 ### What did you hate about your previous job
 One particular aspect of my prev job => some project long hours => tight tness, discomfort in the wrists and neck. I have learned to cope and manage,.
