@@ -91,15 +91,19 @@ Additionally, I collaborate with the **Executive team** to ensure that ecommerce
  taking the initiative to learn new skills and technologies through online courses, tutorials, and experimenting with new tools and platforms. I am staying informed about updates and advancements in the technology and networking with other professionals in the field.
  
 ### Can you provide an example of a project you led that resulted in a significant increase in online sales or improved customer experience?
-
+I led a project to improve the checkout process of our ecommerce website. Through analytics and customer feedback, we found that many customers were abandoning their shopping carts during the checkout process.To address this issue, I worked with our team to redesign the checkout process with a focus on simplification and user experience. We eliminated unnecessary fields and steps, and added progress indicators to help customers better understand the process. We also optimized the mobile checkout experience to ensure a seamless experience across devices.As a result of these improvements, we saw a significant decrease in cart abandonment and an increase in conversion rates. Our online sales increased by 25% within the first month of implementation. Additionally, we received positive feedback from customers about the improved checkout experience.
 
 ### How do you prioritize and manage competing demands in a fast-paced ecommerce environment?
+I prioritize tasks based on the business goals and objectives. Project management tools help me organize tasks and track progress. I communicate regularly with stakeholders to manage any conflicts or competing demands. I think it's important to remain flexible and adaptable, and to be willing to adjust priorities as needed to ensure that we are delivering the most value to the business and our customers.
 
 ### How have you ensured that Search Engine Optimization (SEO) efforts are effective and aligned with Social, print, and in-branch promotions and sales goals in previous roles?
+In one of my previous roles I continuously monitored and analyzed website traffic, search engine rankings, and customer engagement metrics to measure the effectiveness of our SEO efforts. For example, I used Google Search Console to monitor search engine performance and identify areas for improvement. I analyzed search queries and click-through rates to optimize content and improve search engine rankings.
 
 ### Can you give an example of how you have used analytics tools to understand site activity, performance, relevance, and customer experience in a previous role?
+In a previous role, I used Google Analytics to understand site activity and performance. I set up custom tracking to monitor user behavior, such as which pages they visited, how long they spent on each page, and which buttons they clicked. To understand customer experience, I used tools like Hotjar and Crazy Egg to track user interactions and heat maps. This helped me to identify areas where users were getting stuck or dropping off and allowed me to make improvements to the user experience.
 
 ### Can you describe how you have worked with Legal and Technology teams to ensure privacy, security, and compliance across ecommerce platforms in previous roles?
+
 
 ### How have you developed and maintained monthly scorecards for Executives to demonstrate activity and results from all web sites, and how have you continued to improve in supporting customers, branch staff, and sales revenue?
 
