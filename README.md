@@ -4,7 +4,7 @@
 ### Tell me about yourself
 
 Hi, my name is Maroun, I am self-taught programmer. I have been working as a web developer for about 3 years now and I have gained a lot of experience in the e-commerce field. I have worked on the several projects and I would love to share it with you, if you don't mind I can send it over after our interview, as well as my portfolio website. I have worked with startups and helped to build the e-commerce store from ground-up, as well as with more established businesses. Even with my on-hand experience I acknowledge the importance of the educational degree, I am expected to graduate with the bachelors of computer science early next year and I'm going to pursue the MBA shortly after. I am passionate about web technology and I believe my leadership and communication skills are perfectly align with this position.
-<br>
+<br><br>
 Hi, my name is [Your Name], and I'm a web developer. I've always been interested in technology and creating things, so web development was a natural fit for me. In my most recent role at [Company Name], I worked on developing several web applications using [Programming Language or Framework]. I also collaborated with a team of designers and developers to create a responsive and user-friendly interface. I recently completed (currently doing) a course in [Programming Language or Framework], which helped me to improve my skills and stay up-to-date with the latest technologies. I'm really passionate about web development because it allows me to create something tangible and useful for people. In the future, I hope to continue learning and growing as a developer and to make a positive impact in the industry.
 
 ### Why do you want this job?
@@ -112,11 +112,15 @@ In a previous role, I used Google Analytics to understand site activity and perf
 * I worked with the Legal team to develop clear and comprehensive privacy policies and terms of service, that were in compliance with relevant laws and regulations for our ecommerce platforms. 
 * I worked with Legal and Technology teams to ensure that our ecommerce platform was compliant with the Americans with Disabilities Act (ADA). This involved conducting a thorough review of our website to identify any potential barriers for users with disabilities and implementing solutions to address those issues. For example, we added alt text to all images on our site to ensure that visually impaired users could access the same information as other users. We also made sure that our site was compatible with screen readers and other assistive technologies commonly used by individuals with disabilities.
 
-### How have you developed and maintained monthly scorecards for Executives to demonstrate activity and results from all web sites, and how have you continued to improve in supporting customers, branch staff, and sales revenue?
+### [REPORTS] How have you developed and maintained monthly scorecards for Executives to demonstrate activity and results from all web sites, and how have you continued to improve in supporting customers, branch staff, and sales revenue?
 I created monthly scorecards for executives that showcased web activity and results across all websites. To support customers, branch staff, and sales revenue, I regularly reviewed the data and made improvements to the websites based on the insights gained.
 To create the scorecards, I used analytics tools to collect and analyze data on web traffic, engagement, and conversion rates. This data was then compiled into a visual scorecard that highlighted key metrics and trends.
 To ensure the scorecards were effective, I regularly reviewed and updated them based on feedback from executives and other stakeholders.
 
+### What is your strategy for keeping your the services provided by your team up to date and consistent
+* Regularly monitor industry trends and stay up-to-date with new technologies and best practices.
+* collaboration and knowledge sharing within the team.
+* Reviewing and updating our existing services based on feedback from our clients and stakeholders.
 
 -----------------------------------------------------------------------------------------
 # Project management questions
