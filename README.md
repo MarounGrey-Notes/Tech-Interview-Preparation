@@ -10,8 +10,10 @@ After researching the company's vision and mission statements, I've discovered t
 ### What are your best qualities? | Why should we hire you?
 In addition to my **strong technical skills** and **clean coding** abilities, I possess excellent soft skills. I care about delivering **high-quality work** and enjoy seeing other people use what I've build. I have strong **attention to detail**, **communication skills**, and the ability to **explain complex concepts** in simple terms. I'm **passionate** about web development, I enjoy finding creative solutions to problems, and highly enthusiastic about learning and growing in my field.
 
-### Where do you see yourself in five years?
-In five years, I see myself as a highly skilled and experienced software engineer. My goal is to become an expert full-stack developer, and I plan to achieve this by staying up-to-date with the latest industry trends, attending relevant training and conferences, and actively seeking out new challenges and projects that allow me to develop my skills.
+### Where do you see yourself in five years? | How long are you going to work with us?
+
+* **[GENERAL]** Im looking for stability in my career and I applied to this position specifically because it offers a long-term opportunity. I have gone through your company's profile and I am aware of your employee's supportive culture and good work/life balance. 
+* **[DEVELOPER]** In five years, I see myself as a highly skilled and experienced software engineer. My goal is to become an expert full-stack developer, and I plan to achieve this by staying up-to-date with the latest industry trends, attending relevant training and conferences, and actively seeking out new challenges and projects that allow me to develop my skills.<br>
 
 ### What is your proudest achievements and why is it important?
 In my first job as a web developer, I was tasked with creating an e-commerce website from scratch with a tight deadline. Being the only developer in the company, I had to work long hours and research extensively to overcome my experience gaps. Despite the challenges, I was able to deliver a fully functional website in just three months. The site performed beyond expectations, generating $16,000 in sales during the first two weeks after launch. This is important to me because it showed me the importance of dedication and hard work in overcoming obstacles.
@@ -20,15 +22,12 @@ In my first job as a web developer, I was tasked with creating an e-commerce web
 # Tough interview questions
 
 ### Why do you want to leave your current position?
-**[MANAGER]** Working for my current company has allowed me to improve my skills and learn new tasks, and I'm grateful for those opportunities. I'm hoping to advance into a management position so I can continue to use my leadership skills. My current company is small and has limited opportunities for growth, which has led me to apply for other jobs.<br>
-**[DEVELOPER]** Although I've appreciated the valuable learning experience that my current company has provided me, I'm eager to take on new challenges as I pursue my goal of becoming a versatile developer with proficiency across various technologies. Given your company's reputation and industry standing, I believe that this role presents an excellent opportunity to continue my career growth and further advance towards that objective. <br>
-**[ON SITE]** There's nothing I really dislike about my current job. Working for my current company has allowed me to improve my skills and learn new tasks, and I'm grateful for those opportunities. I'm applying for this job because working remotely has become challenging for me. I've learned I thrive in an office environment, where I can collaborate with my coworkers by stopping at their desks to ask questions or share ideas. If hired for this position, I'm looking forward to working in the office and using my interpersonal skills to building meaningful relationships with the team here.
+* **[MANAGER]** Working for my current company has allowed me to improve my skills and learn new tasks, and I'm grateful for those opportunities. I'm hoping to advance into a management position so I can continue to use my leadership skills. My current company is small and has limited opportunities for growth, which has led me to apply for other jobs.<br>
+* **[DEVELOPER]** Although I've appreciated the valuable learning experience that my current company has provided me, I'm eager to take on new challenges as I pursue my goal of becoming a versatile developer with proficiency across various technologies. Given your company's reputation and industry standing, I believe that this role presents an excellent opportunity to continue my career growth and further advance towards that objective. <br>
+* **[ON SITE]** There's nothing I really dislike about my current job. Working for my current company has allowed me to improve my skills and learn new tasks, and I'm grateful for those opportunities. I'm applying for this job because working remotely has become challenging for me. I've learned I thrive in an office environment, where I can collaborate with my coworkers by stopping at their desks to ask questions or share ideas. If hired for this position, I'm looking forward to working in the office and using my interpersonal skills to building meaningful relationships with the team here.
 
 ### What did you hate about your previous job
 I wouldn't say that there was anything that I 'hated' about my previous job, but there were some challenges that I faced. Sometimes there were short deadlines so I had to work long hours and my neck and wrists would become stiff. I had to learn how to take breaks and stretch, but I still have a long way to go.
-
-### How long are you going to work with us?
-Im looking for stability in my career and I applied to this position specifically because it offers a long-term opportunity. I have gont through your company's profile and I am aware of your employee's supportive culture and good work/life balance. 
 
 ### [WEAKNESS] What is one of your weaknesses?
 I tend to be a perfectionist and sometimes I spend too much time on the task to make sure it's done perfectly. I have learned to balance this tendency with the need to meet deadlines and move on to the other tasks.
@@ -64,24 +63,50 @@ In a previous project, I developed a website for a client who had a general idea
 -----------------------------------------------------------------------------------------
 # Answers to Managerial questions
 
-### Can you describe your experience leading an ecommerce operations team?
+### Can you describe your experience leading an ecommerce operations team? | Can you walk me through your experience with overseeing day-to-day operations of ecommerce businesses?
+While I haven't had the opportunity to lead an ecommerce operations team yet, I have experience working closely with them as a developer. In my current role, I have collaborated with the operations and marketing teams on projects to improve the customer experience, order fulfillment, and search performance of our ecommerce platforms.As a developer, I have gained a deep understanding of the technical aspects of ecommerce operations, which I believe would be valuable in a leadership role. I am confident that I could effectively manage an ecommerce operations team by providing technical expertise, setting clear goals and expectations, and fostering a collaborative and productive work environment.
 
-### How would you develop and implement strategies to improve online sales and customer experience?
+### How would you develop and implement strategies to improve online sales and customer experience? | How have you implemented technology strategies to improve customer experience, design/branding, and sales performance in previous roles?
+I've implemented responsive design, optimized sites performance, integrated seasonal promotions, optimized the website to comply with ADA standards, collaborated with marketing teams on A/B testing to optimize email campaigns.
 
 ### What is your experience with B2B and B2C ecommerce businesses?
+As a developer, I've worked with both B2B and B2C ecommerce businesses. In my experience, B2B businesses often require more complex ecommerce functionality, such as bulk ordering, multi-tier pricing, and account management features. Meanwhile, B2C businesses often require a more user-friendly and visually appealing ecommerce platform that focuses on product images, descriptions, and reviews. I have experience developing custom ecommerce solutions for both B2B and B2C clients, and understand the unique challenges and requirements of each type of business.
 
-### Can you discuss a time when you successfully rebuilt an ecommerce business to deliver renewed competitive advantage?
+### [SUCCESS] Can you discuss a time when you successfully rebuilt an ecommerce business to deliver renewed competitive advantage?
+I successfully rebuilt an ecommerce business to deliver renewed competitive advantage. I analyzed the existing platform, worked closely with the designer to improve the site with a modern interface and optimized performance. By conducting user testing and tracking data, we increased customer engagement, reduced cart abandonment, and boosted revenue. I worked closely with the external development team, as well as cross-functional teams such as marketing and executive to ensure alignment with the overall business strategy.
+
+### [CHALLENGE] What are some of the biggest challenges you've faced when managing multiple partners providing eCommerce platform, content, and consulting services, and how have you addressed them?
+Ensuring consistent quality, managing timelines, and maintaining clear communication among all parties:<br>
+* I establish clear expectations and guidelines for each partner, including project timelines, milestones, and deliverables.
+* I regularly monitor progress and performance, and provide feedback to ensure that partners are meeting the expected standards.
+
+### [DIFFICULT DECISION] Can you describe a time when you had to make a difficult decision related to ecommerce or web operations?
+Sure! I once faced a difficult decision as a web developer when a critical API suddenly stopped working, causing important functions of our website to fail. We had to decide whether to wait for the API provider to fix the issue or to develop an alternative solution to keep our website functional. After consulting with the team, we chose to develop an alternative solution by integrating a different API to restore the functionality of our website. While this solution required extra effort and resources, it allowed us to maintain the user experience and avoid financial losses. This experience taught me the importance of being prepared for unexpected challenges and making quick decisions in critical situations.
+
+### How do you collaborate with other departments, such as Marketing and Executive teams, to achieve business objectives? | How do you work with other departments, including Marketing, Sales, and Executive team, to ensure alignment of ecommerce initiatives with broader company goals?
+I work closely with the **Marketing team** to ensure that website changes and updates align with their promotional efforts and sales goals. By understanding their initiatives, I can **make recommendations** to improve user experience and drive sales.<br>
+Additionally, I collaborate with the **Executive team** to ensure that ecommerce initiatives align with the company's broader goals and objectives. I provide **regular updates** on website performance and recommend strategies to improve revenue and customer satisfaction.
 
 ### How do you stay up-to-date with the latest technology and trends in ecommerce and web operations?
-
+ taking the initiative to learn new skills and technologies through online courses, tutorials, and experimenting with new tools and platforms. I am staying informed about updates and advancements in the technology and networking with other professionals in the field.
+ 
 ### Can you provide an example of a project you led that resulted in a significant increase in online sales or improved customer experience?
+
 
 ### How do you prioritize and manage competing demands in a fast-paced ecommerce environment?
 
-### Can you describe a time when you had to make a difficult decision related to ecommerce or web operations?
+### How have you ensured that Search Engine Optimization (SEO) efforts are effective and aligned with Social, print, and in-branch promotions and sales goals in previous roles?
 
-### How do you collaborate with other departments, such as Marketing and Executive teams, to achieve business objectives?
+### Can you give an example of how you have used analytics tools to understand site activity, performance, relevance, and customer experience in a previous role?
 
+### Can you describe how you have worked with Legal and Technology teams to ensure privacy, security, and compliance across ecommerce platforms in previous roles?
+
+### How have you developed and maintained monthly scorecards for Executives to demonstrate activity and results from all web sites, and how have you continued to improve in supporting customers, branch staff, and sales revenue?
+
+
+
+-----------------------------------------------------------------------------------------
+# Project management questions
 
 -----------------------------------------------------------------------------------------
 ```
