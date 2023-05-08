@@ -122,8 +122,21 @@ To ensure the scorecards were effective, I regularly reviewed and updated them b
 * collaboration and knowledge sharing within the team.
 * Reviewing and updating our existing services based on feedback from our clients and stakeholders.
 
+### How will you deal with difficult customer?
+I would identify 3 top issues that the customer is experiencing and I would communicate those issues with the team and work out the solution
+
+### What would you do if we experienced sudden increase in demand that put extreme stress on our operational capacity?
+* Avoid turning down any sales
+* I would meet with the team and departments to see if we can temporarily redirect workflows from non-essential projects
+* I would start looking into outsourcing options to meet demand
+
+
+### Who is more important old customer or new customer?
+
+
 -----------------------------------------------------------------------------------------
 # Project management questions
+# Operations Manager questions
 
 -----------------------------------------------------------------------------------------
 ```
