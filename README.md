@@ -2,6 +2,9 @@
 # Answers to common behavioral interview questions
 
 ### Tell me about yourself
+
+Hi, my name is Maroun, I am self-taught programmer. I have been working as a web developer for about 3 years now and I have gained a lot of experience in the e-commerce field. I have worked on the several projects and I would love to share it with you, if you don't mind I can send it over after our interview, as well as my portfolio website. I have worked with startups and helped to build the e-commerce store from ground-up, as well as with more established businesses. Even with my on-hand experience I acknowledge the importance of the educational degree, I am expected to graduate with the bachelors of computer science early next year and I'm going to pursue the MBA shortly after. I am passionate about web technology and I believe my leadership and communication skills are perfectly align with this position.
+<br>
 Hi, my name is [Your Name], and I'm a web developer. I've always been interested in technology and creating things, so web development was a natural fit for me. In my most recent role at [Company Name], I worked on developing several web applications using [Programming Language or Framework]. I also collaborated with a team of designers and developers to create a responsive and user-friendly interface. I recently completed (currently doing) a course in [Programming Language or Framework], which helped me to improve my skills and stay up-to-date with the latest technologies. I'm really passionate about web development because it allows me to create something tangible and useful for people. In the future, I hope to continue learning and growing as a developer and to make a positive impact in the industry.
 
 ### Why do you want this job?
