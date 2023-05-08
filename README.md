@@ -14,6 +14,7 @@ In addition to my **strong technical skills** and **clean coding** abilities, I 
 In five years, I see myself as a highly skilled and experienced software engineer. My goal is to become an expert full-stack developer, and I plan to achieve this by staying up-to-date with the latest industry trends, attending relevant training and conferences, and actively seeking out new challenges and projects that allow me to develop my skills.
 
 ### What is your proudest achievements and why is it important?
+In my first job as a web developer, I was tasked with creating an e-commerce website from scratch with a tight deadline. Being the only developer in the company, I had to work long hours and research extensively to overcome my experience gaps. Despite the challenges, I was able to deliver a fully functional website in just three months. The site performed beyond expectations, generating $16,000 in sales during the first two weeks after launch. This is important to me because it showed me the importance of dedication and hard work in overcoming obstacles.
 
 -----------------------------------------------------------------------------------------
 # Tough interview questions
@@ -22,9 +23,10 @@ In five years, I see myself as a highly skilled and experienced software enginee
 Although I've appreciated the valuable learning experience that my current company has provided me, I'm eager to take on new challenges as I pursue my goal of becoming a versatile developer with proficiency across various technologies. Given your company's reputation and industry standing, I believe that this role presents an excellent opportunity to continue my career growth and further advance towards that objective.
 
 ### What is one of your weaknesses?
+I tend to be a perfectionist and sometimes I spend too much time on the task to make sure it's done perfectly. I have learned to balance this tendencywith the need to meet deadlines and move 
 
 ### What did you hate about your previous job
-One particular aspect of my prev job => some project long hours => tight tness, discomfort in the wrists and neck. I have learned to cope and manage,.
+I wouldn't say that there was anything that I 'hated' about my previous job, but there were some challenges that I faced. Sometimes there were short deadlines so I had to work long hours and my neck and wrists would become stiff. I had to learn how to take breaks and stretch, but I still have a long way to go.
 
 ### How long are you going to work with us?
 Im looking for stability in my career and I applied to this position specifically because it offers a long-term opportunity. I have gont through your company's profile and I am aware of your employee's supportive culture and good work/life balance. 
@@ -69,7 +71,6 @@ In a previous project, I developed a website for a client who had a general idea
 
 ### How do you collaborate with other departments, such as Marketing and Executive teams, to achieve business objectives?
 
-### What do you think are the most important skills for a successful Ecommerce, eContent and Web Operations Director, and how do you embody those skills?
 
 
 -----------------------------------------------------------------------------------------
