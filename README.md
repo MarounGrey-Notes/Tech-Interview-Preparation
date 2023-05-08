@@ -20,16 +20,18 @@ In my first job as a web developer, I was tasked with creating an e-commerce web
 # Tough interview questions
 
 ### Why do you want to leave your current position?
-Although I've appreciated the valuable learning experience that my current company has provided me, I'm eager to take on new challenges as I pursue my goal of becoming a versatile developer with proficiency across various technologies. Given your company's reputation and industry standing, I believe that this role presents an excellent opportunity to continue my career growth and further advance towards that objective.
-
-### What is one of your weaknesses?
-I tend to be a perfectionist and sometimes I spend too much time on the task to make sure it's done perfectly. I have learned to balance this tendencywith the need to meet deadlines and move 
+**[MANAGER]** Working for my current company has allowed me to improve my skills and learn new tasks, and I'm grateful for those opportunities. I'm hoping to advance into a management position so I can continue to use my leadership skills. My current company is small and has limited opportunities for growth, which has led me to apply for other jobs.<br>
+**[DEVELOPER]** Although I've appreciated the valuable learning experience that my current company has provided me, I'm eager to take on new challenges as I pursue my goal of becoming a versatile developer with proficiency across various technologies. Given your company's reputation and industry standing, I believe that this role presents an excellent opportunity to continue my career growth and further advance towards that objective. <br>
+**[ON SITE]** There's nothing I really dislike about my current job. Working for my current company has allowed me to improve my skills and learn new tasks, and I'm grateful for those opportunities. I'm applying for this job because working remotely has become challenging for me. I've learned I thrive in an office environment, where I can collaborate with my coworkers by stopping at their desks to ask questions or share ideas. If hired for this position, I'm looking forward to working in the office and using my interpersonal skills to building meaningful relationships with the team here.
 
 ### What did you hate about your previous job
 I wouldn't say that there was anything that I 'hated' about my previous job, but there were some challenges that I faced. Sometimes there were short deadlines so I had to work long hours and my neck and wrists would become stiff. I had to learn how to take breaks and stretch, but I still have a long way to go.
 
 ### How long are you going to work with us?
 Im looking for stability in my career and I applied to this position specifically because it offers a long-term opportunity. I have gont through your company's profile and I am aware of your employee's supportive culture and good work/life balance. 
+
+### [WEAKNESS] What is one of your weaknesses?
+I tend to be a perfectionist and sometimes I spend too much time on the task to make sure it's done perfectly. I have learned to balance this tendency with the need to meet deadlines and move on to the other tasks.
 
 ### [CONFLICT] Tell me about a conflict you had with your co-worker
 I once had a conflict with a co-worker about a feature we were implementing in a web application. We had different ideas, but I initiated an open conversation where we listened to each other's perspectives and found a solution that combined the best elements of both our ideas. We established a better understanding of each other's work styles and perspectives, and this helped us work more effectively as a team going forward.
@@ -50,6 +52,15 @@ In a previous project, I developed a website for a client who had a general idea
 * I'm looking for a salary that's competitive for someone with my skills and experience, and that fairly reflects the value I can bring to the company. I'm open to discussing specific compensation details once I learn more about the position, its responsibilities, and the overall compensation package.
 * I'm flexible when it comes to hourly rate and am open to discussing what you have in mind. Based on my experience and the industry standard in this location, I believe a fair hourly rate would be [insert your desired rate or range based on your research], but I'm open to negotiation depending on the other factors such as benefits, perks, and other forms of compensation. Ultimately, I'm looking for a role that values my skills and expertise and offers a fair compensation package.
 
+-----------------------------------------------------------------------------------------
+```
+███╗   ███╗     █████╗     ███╗   ██╗     █████╗      ██████╗     ███████╗    ██████╗     ██╗     █████╗     ██╗     
+████╗ ████║    ██╔══██╗    ████╗  ██║    ██╔══██╗    ██╔════╝     ██╔════╝    ██╔══██╗    ██║    ██╔══██╗    ██║     
+██╔████╔██║    ███████║    ██╔██╗ ██║    ███████║    ██║  ███╗    █████╗      ██████╔╝    ██║    ███████║    ██║     
+██║╚██╔╝██║    ██╔══██║    ██║╚██╗██║    ██╔══██║    ██║   ██║    ██╔══╝      ██╔══██╗    ██║    ██╔══██║    ██║     
+██║ ╚═╝ ██║    ██║  ██║    ██║ ╚████║    ██║  ██║    ╚██████╔╝    ███████╗    ██║  ██║    ██║    ██║  ██║    ███████╗
+╚═╝     ╚═╝    ╚═╝  ╚═╝    ╚═╝  ╚═══╝    ╚═╝  ╚═╝     ╚═════╝     ╚══════╝    ╚═╝  ╚═╝    ╚═╝    ╚═╝  ╚═╝    ╚══════╝
+```
 -----------------------------------------------------------------------------------------
 # Answers to Managerial questions
 
@@ -72,7 +83,16 @@ In a previous project, I developed a website for a client who had a general idea
 ### How do you collaborate with other departments, such as Marketing and Executive teams, to achieve business objectives?
 
 
-
+-----------------------------------------------------------------------------------------
+```
+████████╗    ███████╗     ██████╗    ██╗  ██╗    ███╗   ██╗    ██╗     ██████╗     █████╗     ██╗     
+╚══██╔══╝    ██╔════╝    ██╔════╝    ██║  ██║    ████╗  ██║    ██║    ██╔════╝    ██╔══██╗    ██║     
+   ██║       █████╗      ██║         ███████║    ██╔██╗ ██║    ██║    ██║         ███████║    ██║     
+   ██║       ██╔══╝      ██║         ██╔══██║    ██║╚██╗██║    ██║    ██║         ██╔══██║    ██║     
+   ██║       ███████╗    ╚██████╗    ██║  ██║    ██║ ╚████║    ██║    ╚██████╗    ██║  ██║    ███████╗
+   ╚═╝       ╚══════╝     ╚═════╝    ╚═╝  ╚═╝    ╚═╝  ╚═══╝    ╚═╝     ╚═════╝    ╚═╝  ╚═╝    ╚══════╝
+                                                                                                      
+```
 -----------------------------------------------------------------------------------------
 # Answers to Technical Questions for Web Developers
 
