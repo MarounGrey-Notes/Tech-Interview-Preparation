@@ -103,10 +103,16 @@ In one of my previous roles I continuously monitored and analyzed website traffi
 In a previous role, I used Google Analytics to understand site activity and performance. I set up custom tracking to monitor user behavior, such as which pages they visited, how long they spent on each page, and which buttons they clicked. To understand customer experience, I used tools like Hotjar and Crazy Egg to track user interactions and heat maps. This helped me to identify areas where users were getting stuck or dropping off and allowed me to make improvements to the user experience.
 
 ### Can you describe how you have worked with Legal and Technology teams to ensure privacy, security, and compliance across ecommerce platforms in previous roles?
-
+* I worked on implementing SSL encryption on our ecommerce platforms to ensure secure communication between our servers and users' web browsers.
+* I worked with the Legal team to ensure that our ecommerce platforms were compliant with the General Data Protection Regulation (GDPR) requirements. This involved ensuring that users' personal data was collected, processed, and stored in accordance with GDPR guidelines, as well as providing users with clear information about how their data was being used.
+* I was conducting regular security audits of our ecommerce platforms to identify any vulnerabilities or potential security risks. This involved reviewing code, system configurations, and access controls, as well as testing for common security vulnerabilities such as SQL injection and cross-site scripting (XSS) attacks.
+* I worked with the Legal team to develop clear and comprehensive privacy policies and terms of service, that were in compliance with relevant laws and regulations for our ecommerce platforms. 
+* I worked with Legal and Technology teams to ensure that our ecommerce platform was compliant with the Americans with Disabilities Act (ADA). This involved conducting a thorough review of our website to identify any potential barriers for users with disabilities and implementing solutions to address those issues. For example, we added alt text to all images on our site to ensure that visually impaired users could access the same information as other users. We also made sure that our site was compatible with screen readers and other assistive technologies commonly used by individuals with disabilities.
 
 ### How have you developed and maintained monthly scorecards for Executives to demonstrate activity and results from all web sites, and how have you continued to improve in supporting customers, branch staff, and sales revenue?
-
+I created monthly scorecards for executives that showcased web activity and results across all websites. To support customers, branch staff, and sales revenue, I regularly reviewed the data and made improvements to the websites based on the insights gained.
+To create the scorecards, I used analytics tools to collect and analyze data on web traffic, engagement, and conversion rates. This data was then compiled into a visual scorecard that highlighted key metrics and trends.
+To ensure the scorecards were effective, I regularly reviewed and updated them based on feedback from executives and other stakeholders.
 
 
 -----------------------------------------------------------------------------------------
