@@ -2,7 +2,6 @@
 # Answers to common behavioral interview questions
 
 ### Tell me about yourself
-
 Hi, my name is Maroun, I am self-taught programmer. I have been working as a web developer for about 3 years now and I have gained a lot of experience in the e-commerce field. I have worked on the several projects and I would love to share it with you, if you don't mind I can send it over after our interview, as well as my portfolio website. I have worked with startups and helped to build the e-commerce store from ground-up, as well as with more established businesses. Even with my on-hand experience I acknowledge the importance of the educational degree, I am expected to graduate with the bachelors of computer science early next year and I'm going to pursue the MBA shortly after. I am passionate about web technology and I believe my leadership and communication skills are perfectly align with this position.
 <br><br>
 Hi, my name is [Your Name], and I'm a web developer. I've always been interested in technology and creating things, so web development was a natural fit for me. In my most recent role at [Company Name], I worked on developing several web applications using [Programming Language or Framework]. I also collaborated with a team of designers and developers to create a responsive and user-friendly interface. I recently completed (currently doing) a course in [Programming Language or Framework], which helped me to improve my skills and stay up-to-date with the latest technologies. I'm really passionate about web development because it allows me to create something tangible and useful for people. In the future, I hope to continue learning and growing as a developer and to make a positive impact in the industry.
@@ -14,7 +13,6 @@ After researching the company's vision and mission statements, I've discovered t
 In addition to my **strong technical skills** and **clean coding** abilities, I possess excellent soft skills. I care about delivering **high-quality work** and enjoy seeing other people use what I've build. I have strong **attention to detail**, **communication skills**, and the ability to **explain complex concepts** in simple terms. I'm **passionate** about web development, I enjoy finding creative solutions to problems, and highly enthusiastic about learning and growing in my field.
 
 ### Where do you see yourself in five years? | How long are you going to work with us?
-
 * **[GENERAL]** Im looking for stability in my career and I applied to this position specifically because it offers a long-term opportunity. I have gone through your company's profile and I am aware of your employee's supportive culture and good work/life balance. 
 * **[DEVELOPER]** In five years, I see myself as a highly skilled and experienced software engineer. My goal is to become an expert full-stack developer, and I plan to achieve this by staying up-to-date with the latest industry trends, attending relevant training and conferences, and actively seeking out new challenges and projects that allow me to develop my skills.<br>
 
@@ -173,8 +171,10 @@ SOAP(Simple Object Access Protocol) is a strict message-based protocol that uses
 CORS is a Cross-Origin Resource Sharing. It is a mechanism that allows different websites to talk to each other and share information. If you want to access information from one website on another website, you need permission from the website you're trying to access.
 
 ### What is the difference between localStorage and sessionStorage objects?
+The main difference between `localStorage` and `sessionStorage` is that the data stored in `localStorage` persists even after the browser is closed and reopened, while the data stored in `sessionStorage` is cleared when the browser session ends, i.e., when the user closes the browser window.
 
 ### What is the difference between cookies and local storage?
+The main difference between cookies and local storage is that cookies are primarily used for storing small amounts of data that need to be sent back to the server with each subsequent request, while local storage is used for storing larger amounts of data that need to be accessed by the client-side JavaScript code.
 
 ### What is the difference between `<window.onload>` and `<onDocumentReady>`?
 The main difference is that `window.onload` waits for all resources to finish loading (including images and CSS styles), while the `onDocumentRead` only waits for the HTML document to be loaded and parsed. As a result, `onDocumentReady` can execute code faster and is generally preferred for faster page loading times.
