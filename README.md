@@ -180,8 +180,10 @@ The main difference between cookies and local storage is that cookies are primar
 The main difference is that `window.onload` waits for all resources to finish loading (including images and CSS styles), while the `onDocumentRead` only waits for the HTML document to be loaded and parsed. As a result, `onDocumentReady` can execute code faster and is generally preferred for faster page loading times.
 
 ### Explain Webpack
+Webpack is a tool for bundling and optimizing web code. It organizes modules, handles different file types, and improves performance. It's great for building modern web applications.
 
 ### Explain DOM
+The DOM (Document Object Model) is like the blueprint of a webpage. It represents the structure and content of a web document, allowing web browsers to understand and manipulate it. Think of it as the browser's way of understanding and interacting with the elements of a webpage, like text, images, and buttons. The DOM is what enables dynamic and interactive web experiences by allowing developers to access, modify, and update the elements of a webpage using JavaScript.
 
 ### What is a pair programming?
 
