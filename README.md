@@ -186,8 +186,15 @@ Webpack is a tool for bundling and optimizing web code. It organizes modules, ha
 The DOM (Document Object Model) is like the blueprint of a webpage. It represents the structure and content of a web document, allowing web browsers to understand and manipulate it. Think of it as the browser's way of understanding and interacting with the elements of a webpage, like text, images, and buttons. The DOM is what enables dynamic and interactive web experiences by allowing developers to access, modify, and update the elements of a webpage using JavaScript.
 
 ### What is a pair programming?
+Pair programming is when two people work together to write computer code. One person is called the "driver," and they write the code on the computer. The other person is called the "navigator," and they help the driver by thinking about the big picture, suggesting ideas, and catching mistakes.<br>
+The driver and navigator take turns, so they both have a chance to write code and think about the problem. By working together, they can find and fix errors faster, come up with better solutions, and learn from each other. It's like having a coding buddy to help you out and make the process more fun!
 
 ### Explain difference between SVG and Canvas
+SVG (Scalable Vector Graphics) is a markup language for creating vector graphics that can be scaled without losing quality. It's great for icons and logos and can be easily manipulated using CSS and JavaScript.
+<br>
+Canvas is a drawing surface that allows for dynamic rendering using JavaScript. It works with pixels and is ideal for creating animations, games, and visual effects. However, it is not easily scalable and requires more manual coding for interactivity.
+<br>
+In short, SVG is for scalable vector graphics, while Canvas is for pixel-based dynamic graphics.
 
 ### Explain the term 'Scope' in JavaScript
 
