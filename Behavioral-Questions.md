@@ -2,7 +2,7 @@
 # Answers to common behavioral interview questions
 
 ### Tell me about yourself
-* Hello, my name is [Name], and I am a self-taught programmer with a strong background in web development. Over the past [number of years], I have gained extensive experience in the e-commerce field. I have had the opportunity to work on various projects, and I would be delighted to share them with you. Following our interview, I can provide you with examples of my work and direct you to my portfolio website.
+Hello, my name is [Name], and I am a self-taught programmer with a strong background in web development. Over the past [number of years], I have gained extensive experience in the e-commerce field. I have had the opportunity to work on various projects, and I would be delighted to share them with you. Following our interview, I can provide you with examples of my work and direct you to my portfolio website.
 <br>
 Throughout my career, I have collaborated with both startups and established businesses, contributing to the development of e-commerce stores from the ground up. This hands-on experience has given me valuable insights into the industry. However, I also recognize the significance of formal education. I am currently pursuing a bachelor's degree in computer science, which I expect to complete early next year. Additionally, I have plans to pursue an MBA in the near future.
 <br>
