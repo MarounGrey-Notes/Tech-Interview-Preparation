@@ -54,7 +54,7 @@ To create the scorecards, I used analytics tools to collect and analyze data on 
 To ensure the scorecards were effective, I regularly reviewed and updated them based on feedback from executives and other stakeholders.
 
 ### How will you deal with difficult customer?
-I would identify 3 top issues that the customer is experiencing and I would communicate those issues with the team and work out the solution
+When dealing with a difficult customer, my approach would be to remain calm, patient, and empathetic. I would actively listen to their concerns, seeking to understand their perspective and address their specific needs. Open and transparent communication is key in such situations. I would strive to find a mutually beneficial solution by proposing alternative options or compromises, if appropriate. It's important to maintain a professional demeanor and not take any negative remarks personally. Ultimately, the goal is to maintain a positive relationship with the customer while ensuring their satisfaction and the success of the project.
 
 ### [STRATEGY] How would you develop and implement strategies to improve online sales and customer experience? | How have you implemented technology strategies to improve customer experience, design/branding, and sales performance in previous roles?
 I've implemented responsive design, optimized sites performance, integrated seasonal promotions, optimized the website to comply with ADA standards, collaborated with marketing teams on A/B testing to optimize email campaigns.
@@ -64,8 +64,7 @@ I've implemented responsive design, optimized sites performance, integrated seas
 * I would meet with the team and departments to see if we can temporarily redirect workflows from non-essential projects
 * I would start looking into outsourcing options to meet demand
 
-
 ### Who is more important old customer or new customer?
-
+Both old and new customers are important, but their significance may vary depending on the context. Old customers have already established a relationship with the company and have shown trust and loyalty by returning for additional services. It is crucial to nurture and maintain these relationships, as they can provide long-term stability and potential for referrals. On the other hand, new customers represent growth opportunities and can bring fresh perspectives, new business, and expand the customer base. Striking a balance between nurturing existing relationships and actively seeking new ones is essential for sustainable business growth. Ultimately, a customer-centric approach that values and caters to the needs of both old and new customers is the ideal approach for long-term success.
 
 
