@@ -1,15 +1,3 @@
-
------------------------------------------------------------------------------------------
-```
-████████╗    ███████╗     ██████╗    ██╗  ██╗    ███╗   ██╗    ██╗     ██████╗     █████╗     ██╗     
-╚══██╔══╝    ██╔════╝    ██╔════╝    ██║  ██║    ████╗  ██║    ██║    ██╔════╝    ██╔══██╗    ██║     
-   ██║       █████╗      ██║         ███████║    ██╔██╗ ██║    ██║    ██║         ███████║    ██║     
-   ██║       ██╔══╝      ██║         ██╔══██║    ██║╚██╗██║    ██║    ██║         ██╔══██║    ██║     
-   ██║       ███████╗    ╚██████╗    ██║  ██║    ██║ ╚████║    ██║    ╚██████╗    ██║  ██║    ███████╗
-   ╚═╝       ╚══════╝     ╚═════╝    ╚═╝  ╚═╝    ╚═╝  ╚═══╝    ╚═╝     ╚═════╝    ╚═╝  ╚═╝    ╚══════╝
-                                                                                                      
-```
------------------------------------------------------------------------------------------
 # Answers to Technical Questions for Web Developers
 
 ### What do you do if you can't work out a coding issue by yourself?
@@ -63,8 +51,10 @@ Canvas is a drawing surface that allows for dynamic rendering using JavaScript. 
 In short, SVG is for scalable vector graphics, while Canvas is for pixel-based dynamic graphics.
 
 ### Explain the term 'Scope' in JavaScript
+In JavaScript, "scope" refers to the visibility or accessibility of variables and functions in your code. There are three types of scope: global, local, and block. Global variables can be accessed anywhere, local variables are limited to the function they're defined in, and block-scoped variables are restricted to the block they're declared in.
 
 ### Explain what AJAX is
+AJAX (Asynchronous JavaScript and XML) is a technique for exchanging data with a server without refreshing the entire web page. It enables dynamic updates and improves user experience by allowing asynchronous communication between the browser and server using JavaScript.
 
 ### Explain W3C
 
