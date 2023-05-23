@@ -3,11 +3,40 @@
 ### What do you do if you can't work out a coding issue by yourself?
 If I cannot solve a coding issue by myself, I typically consult documentation, search online resources, and collaborate with colleagues or online communities to find a solution. I believe that asking for help is an essential part of problem-solving and leads to better outcomes in software development.
 
-### How would you typically go about a creating a web app?
+### How would you typically go about a creating a web app? | Can you walk me through your typical workflow for a new project?
 To create a web app, you need to define the requirements, design the user interface, choose a technology stack, develop the app, test and debug it, deploy it, and maintain and update it. It requires technical and creative skills, attention to detail, and a focus on user experience
+
+### Can you walk me through your typical workflow for a new project?
 
 ### If there is a bug causing the issues on a web page, how would you troubleshoot?
 To troubleshoot a bug causing issues on a web page, I would reproduce the issue, inspect the code using browser developer tools, check the console for errors, use debugging tools, test fixes, and refactor the code if necessary. It requires technical skills, attention to detail, and persistence to identify and fix the issue.
+
+### What is a pair programming?
+Pair programming is when two people work together to write computer code. One person is called the "driver," and they write the code on the computer. The other person is called the "navigator," and they help the driver by thinking about the big picture, suggesting ideas, and catching mistakes.<br>
+The driver and navigator take turns, so they both have a chance to write code and think about the problem. By working together, they can find and fix errors faster, come up with better solutions, and learn from each other. It's like having a coding buddy to help you out and make the process more fun!
+
+### What’s a technical challenge you experienced recently, and how did you rise to the challenge? 
+
+### If you could master one technology this year, what would it be?
+
+### How would you describe “great” code?
+
+### What can you bring to our company as a developer?
+
+### What are some things you’d improve on our company website?
+
+## Front End Interview questions
+
+ What can we do to optimize our web pages on the front end?
+ What techniques do you use to improve a site’s performance?
+ What do you do to ensure a site is user friendly? 
+ What are your favorite types of front-end development projects to work on and why?
+ What resources do you use to learn the latest front-end development skills?
+ What’s your favorite website from a UI perspective? Why?
+ How do you ensure that your website design or web application is accessible and user-friendly?
+ What do you think are the most important aesthetic aspects of a webpage and why?
+
+## Theory
 
 ### What is the difference between framework and the library?
 A framework and a library are both tools that make the development process more efficient. A library is a collection of pre-written code or modules that developers can use in their projects.Examples of popular libraries include React, jQuery, and Bootstrap. A framework, on the other hand, is a pre-defined architecture that provides a structure for building applications.Examples of popular frameworks include Ruby on Rails, Django, and AngularJS.
@@ -38,10 +67,6 @@ Webpack is a tool for bundling and optimizing web code. It organizes modules, ha
 
 ### Explain DOM
 The DOM (Document Object Model) is like the blueprint of a webpage. It represents the structure and content of a web document, allowing web browsers to understand and manipulate it. Think of it as the browser's way of understanding and interacting with the elements of a webpage, like text, images, and buttons. The DOM is what enables dynamic and interactive web experiences by allowing developers to access, modify, and update the elements of a webpage using JavaScript.
-
-### What is a pair programming?
-Pair programming is when two people work together to write computer code. One person is called the "driver," and they write the code on the computer. The other person is called the "navigator," and they help the driver by thinking about the big picture, suggesting ideas, and catching mistakes.<br>
-The driver and navigator take turns, so they both have a chance to write code and think about the problem. By working together, they can find and fix errors faster, come up with better solutions, and learn from each other. It's like having a coding buddy to help you out and make the process more fun!
 
 ### Explain difference between SVG and Canvas
 SVG (Scalable Vector Graphics) is a markup language for creating vector graphics that can be scaled without losing quality. It's great for icons and logos and can be easily manipulated using CSS and JavaScript.
