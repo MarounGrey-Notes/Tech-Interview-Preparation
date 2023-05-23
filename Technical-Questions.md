@@ -1,4 +1,4 @@
-# Answers to Technical Questions for Web Developers
+# Answers to Interview Questions for Web Developers
 
 ### What do you do if you can't work out a coding issue by yourself?
 If I cannot solve a coding issue by myself, I typically consult documentation, search online resources, and collaborate with colleagues or online communities to find a solution. I believe that asking for help is an essential part of problem-solving and leads to better outcomes in software development.
