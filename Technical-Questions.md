@@ -82,8 +82,10 @@ In JavaScript, "scope" refers to the visibility or accessibility of variables an
 AJAX (Asynchronous JavaScript and XML) is a technique for exchanging data with a server without refreshing the entire web page. It enables dynamic updates and improves user experience by allowing asynchronous communication between the browser and server using JavaScript.
 
 ### Explain W3C
+The W3C, or World Wide Web Consortium, is an international organization that develops open standards for the World Wide Web. It ensures compatibility and interoperability among different web technologies. The W3C's work includes standards like HTML, CSS, and JavaScript, making the web accessible and consistent across platforms. Its mission is to lead the web to its full potential.
 
 ### What is CDN
+A CDN is a network of servers that delivers web content faster by bringing it closer to users, improving performance, and enhancing reliability. When a user requests content from a website, the CDN determines the server closest to the user's location and delivers the content from that server.
 
 ### What are CSS selectors?
 CSS selectors are patterns used to select specific HTML elements on a web page for styling. There are different types of selectors, including element, class, ID, attribute, and pseudo-selectors. They can be combined and nested together to target elements with more precision.
