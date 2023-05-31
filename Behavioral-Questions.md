@@ -11,7 +11,7 @@ Web technology is my passion, and I believe my strong leadership and communicati
 ### Why do you want this job?
 After researching the company's vision and mission statements, I've discovered that our values are strongly aligned. As a passionate and skilled web developer, I prioritize delivering exceptional results and take great satisfaction in seeing users interact with my creations. I am confident that my experience and expertise make me an excellent candidate to contribute positively to your team and help achieve the company's goals. Additionally, the prospect of working alongside industry experts and advancing my professional growth is particularly exciting to me. Overall, I am highly motivated to join your team and have a meaningful impact in the field of web development.
 
-### What are your best qualities? | Why should we hire you?
+### [STRENGTHS] What are your best qualities? | Why should we hire you?
 In addition to my **strong technical skills** and **clean coding** abilities, I possess excellent soft skills. I care about delivering **high-quality work** and enjoy seeing other people use what I've build. I have strong **attention to detail**, **communication skills**, and the ability to **explain complex concepts** in simple terms. I'm **passionate** about web development, I enjoy finding creative solutions to problems, and highly enthusiastic about learning and growing in my field.
 
 ### Where do you see yourself in five years? | How long are you going to work with us?
