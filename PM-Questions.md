@@ -26,3 +26,4 @@ How would you deal with a difficult stakeholder?
 How Would You Deal With A Situation Where Your Project Is Running Behind Because The Resource You’ve Booked Is Being Used By Another Urgent Project?
 Do You Have Outsourced Personnel Or Supplier Management Experience?
 What Is The Best Way To Set Up And Manage An Interdepartmental Team?
+You have 10 projects and they all need your immediate attention. How would you prioritize them?
