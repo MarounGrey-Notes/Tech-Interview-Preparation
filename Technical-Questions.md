@@ -7,6 +7,15 @@ If I cannot solve a coding issue by myself, I typically consult documentation, s
 To create a web app, you need to define the requirements, design the user interface, choose a technology stack, develop the app, test and debug it, deploy it, and maintain and update it. It requires technical and creative skills, attention to detail, and a focus on user experience
 
 ### Can you walk me through your typical workflow for a new project?
+For a new project, my workflow involves:
+
+* Gathering requirements from stakeholders.
+* Planning and strategizing the project.
+* Designing and developing the solution.
+* Testing and ensuring quality.
+* Deploying and launching the project.
+* Providing post-launch support and maintenance.
+I emphasize effective communication, meticulous planning, collaborative design and development, rigorous testing, and continuous support to ensure successful project delivery.
 
 ### If there is a bug causing the issues on a web page, how would you troubleshoot?
 To troubleshoot a bug causing issues on a web page, I would reproduce the issue, inspect the code using browser developer tools, check the console for errors, use debugging tools, test fixes, and refactor the code if necessary. It requires technical skills, attention to detail, and persistence to identify and fix the issue.
