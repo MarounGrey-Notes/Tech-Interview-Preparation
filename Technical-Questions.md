@@ -15,6 +15,7 @@ For a new project, my workflow involves:
 * Testing and ensuring quality.
 * Deploying and launching the project.
 * Providing post-launch support and maintenance.
+* 
 I emphasize effective communication, meticulous planning, collaborative design and development, rigorous testing, and continuous support to ensure successful project delivery.
 
 ### If there is a bug causing the issues on a web page, how would you troubleshoot?
