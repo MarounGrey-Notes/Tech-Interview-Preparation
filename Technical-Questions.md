@@ -26,10 +26,13 @@ Pair programming is when two people work together to write computer code. One pe
 The driver and navigator take turns, so they both have a chance to write code and think about the problem. By working together, they can find and fix errors faster, come up with better solutions, and learn from each other. It's like having a coding buddy to help you out and make the process more fun!
 
 ### What’s a technical challenge you experienced recently, and how did you rise to the challenge? 
+Recently, I encountered a technical challenge related to performance optimization. The website was experiencing slow page load times, resulting in a poor user experience and potential loss of sales. I began by analyzing the store's performance using tools like Google PageSpeed Insights to identify areas that required improvement. One issue I noticed was that the store had numerous unoptimized images, leading to large file sizes and increased loading times. To address this, I implemented image optimization techniques such as compressing images without sacrificing quality, leveraging responsive image techniques to serve appropriately sized images based on the device, and implementing lazy loading to defer the loading of images until they are actually needed. I was able to significantly improve website's loading times and provide a better user experience for visitors, ultimately boosting conversions and sales.
 
 ### If you could master one technology this year, what would it be?
+If I could master one technology this year, I would choose artificial intelligence and machine learning (AI/ML). The field of AI/ML is rapidly evolving and has tremendous potential to transform various industries. By gaining expertise in AI/ML, I would be equipped to develop innovative solutions, make data-driven decisions, and contribute to advancements in areas like natural language processing, computer vision, and predictive analytics.
 
 ### How would you describe “great” code?
+Great code is readable, modular, simple, efficient, reliable, maintainable, scalable, flexible, secure, and consistent.
 
 ### What can you bring to our company as a developer?
 
