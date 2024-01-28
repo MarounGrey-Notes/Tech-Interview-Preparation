@@ -47,11 +47,5 @@ The W3C, or World Wide Web Consortium, is an international organization that dev
 ### What is CDN
 A CDN is a network of servers that delivers web content faster by bringing it closer to users, improving performance, and enhancing reliability. When a user requests content from a website, the CDN determines the server closest to the user's location and delivers the content from that server.
 
-### What are CSS selectors?
-CSS selectors are patterns used to select specific HTML elements on a web page for styling. There are different types of selectors, including element, class, ID, attribute, and pseudo-selectors. They can be combined and nested together to target elements with more precision.
-
-### What are pseudo-classes?
-Pseudo-classes in web development are selectors used in CSS to style elements based on their state or position in the document. They are preceded by a colon (":") and allow you to target elements based on criteria like hover, focus, position, or content. Examples include :hover, :active, :first-child, and :nth-child(n). They provide a flexible way to apply specific styles to different elements in different situations.
-
 ### Explain API
 API stands for Application Programming Interface. It is a set of rules that allows different software applications to communicate and interact with each other. APIs enable applications to request and exchange data, access functionality, and integrate with external services. They provide a standardized way for applications to interact, promoting interoperability and modularity.
