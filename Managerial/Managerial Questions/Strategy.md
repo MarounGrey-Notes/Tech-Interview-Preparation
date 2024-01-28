@@ -1,3 +1,7 @@
+## How do you prioritize strategic initiatives in your role? 
+## Tell me about a time when you had to shift company strategy. What was the situation and what actions did you take?
+## What process do you use to develop and implement new strategies? How do you measure success?
+
 ### How do you collaborate with other departments, such as Marketing and Executive teams, to achieve business objectives? | How do you work with other departments, including Marketing, Sales, and Executive team, to ensure alignment of ecommerce initiatives with broader company goals?
 I work closely with the **Marketing team** to ensure that website changes and updates align with their promotional efforts and sales goals. By understanding their initiatives, I can **make recommendations** to improve user experience and drive sales.<br>
 Additionally, I collaborate with the **Executive team** to ensure that ecommerce initiatives align with the company's broader goals and objectives. I provide **regular updates** on website performance and recommend strategies to improve revenue and customer satisfaction.
