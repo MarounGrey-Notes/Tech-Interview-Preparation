@@ -1,3 +1,6 @@
+## How do you motivate your team to accomplish goals?
+## Tell me about a time you had to resolve a conflict within your team. How did you handle it?
+## What is your leadership style and how has it evolved over time?
 ### Can you describe your experience leading an ecommerce operations team? | Can you walk me through your experience with overseeing day-to-day operations of ecommerce businesses?
 While I haven't had the opportunity to lead an ecommerce operations team yet, I have experience working closely with them as a developer. In my current role, I have collaborated with the operations and marketing teams on projects to improve the customer experience, order fulfillment, and search performance of our ecommerce platforms.As a developer, I have gained a deep understanding of the technical aspects of ecommerce operations, which I believe would be valuable in a leadership role. I am confident that I could effectively manage an ecommerce operations team by providing technical expertise, setting clear goals and expectations, and fostering a collaborative and productive work environment.
 ### Can you discuss a time when you successfully rebuilt an ecommerce business to deliver renewed competitive advantage?
