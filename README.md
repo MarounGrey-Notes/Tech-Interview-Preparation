@@ -5,35 +5,15 @@ This repository contains technical interview preparation materials to help you a
   <img src="https://blogs.studentlife.utoronto.ca/lifeatuoft/files/2016/08/Michael_Scott_Greatest_Strength.jpg" width="65%" /> 
 </p>
 
-**Technical Topics**
-
-- Data structures
-- Algorithms
-- System design
-- Object oriented programming
-
-**Management Skills**
-
-- Leadership 
-- Project management
-- Team collaboration
-
-**Behavioral Interviewing**  
-
-- Communicating your background  
-- Discussing strengths/weaknesses
-- Walking through past projects
-- Fielding situational questions
-
 Whether you are a computer science student preparing to transition into the tech industry or an experienced engineer freshening up your interviewing skills, this repository serves as a comprehensive interview prep resource. By going through the carefully curated content and code examples in this repo, you can gain familiarity and confidence discussing a wide range of subjects.
 
 ###
 # Table of Contents
 
 ## Initial Screening
-### Behavioral
-- [Behavioral Questions](#behavioral-questions)
-  - [Introduction](#introduction)
+
+### [Behavioral Questions](/Behavioral)
+  - [Introduction](/Introduction.md)
   - [Career Goals](#career-goals) 
   - [Work Experience](#work-experience)
   - [Strengths & Weaknesses](#strengths--weaknesses)
