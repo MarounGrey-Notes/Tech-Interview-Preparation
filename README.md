@@ -7,59 +7,60 @@ This repository contains technical interview preparation materials to help you a
 
 Whether you are a computer science student preparing to transition into the tech industry or an experienced engineer freshening up your interviewing skills, this repository serves as a comprehensive interview prep resource. By going through the carefully curated content and code examples in this repo, you can gain familiarity and confidence discussing a wide range of subjects.
 
-###
+
+
 # Table of Contents
 
 ## Initial Screening
 
-### [Behavioral Questions](/Behavioral)
-  - [Introduction](/Introduction.md)
-  - [Career Goals](#career-goals) 
-  - [Work Experience](#work-experience)
-  - [Strengths & Weaknesses](#strengths--weaknesses)
-  - [Overcoming Obstacles](#overcoming-obstacles)
-  - [Compensation](#compensation)
+#### [Behavioral Questions](/Behavioral)
+  - [Introduction](/Behavioral/Introduction.md)
+  - [Career Goals](/Behavioral/Career%20Goals.md) 
+  - [Work Experience](/Behavioral/Work%20Experience.md)
+  - [Strengths & Weaknesses](/Strengths%20%26%20Weaknesses.md)
+  - [Overcoming Obstacles](/Behavioral/Overcoming%20Obsticles.md)
+  - [Compensation](/Behavioral/Compensation.md)
  
-### Logical
-- [Logical Questions](#logical-questions)
-  - [Problem Solving](#problem-solving)
+#### [Logical Questions](/Logical)
+  - [Problem Solving](/Logical/Problem%20Solving.md)
  
 ## Management Skills
-- [Managerial Questions](#managerial-questions)
-  - [Leadership](#leadership)
-  - [Strategy](#strategy)
-  - [Operations](#operations) 
-  - [Decision Making](#decision-making)
-  - [Customer Service](#customer-service)  
-- [Project Management Questions](#project-management-questions) 
-  - [General PM](#general-pm)
-  - [Managing Projects](#managing-projects)
-  - [Team Management](#team-management)  
-  - [Resource Management](#resource-management)
+
+#### [Managerial Questions](/Managerial/Managerial%20Questions)
+  - [Leadership](/Managerial/Managerial%20Questions/Leadership.md)
+  - [Strategy](/Managerial/Managerial%20Questions/Strategy.md)
+  - [Operations](/Managerial/Managerial%20Questions/Operations.md) 
+  - [Decision Making](/Managerial/Managerial%20Questions/Decision%20Making.md)
+  - [Customer Service](/Managerial/Managerial%20Questions/Customer%20Service.md)  
+#### [Project Management Questions](/Managerial/Project%20Management) 
+  - [General PM](/Managerial/Project%20Management/General.md)
+  - [Managing Projects](/Managerial/Project%20Management/Managing%20Project.md)
+  - [Team Management](/Managerial/Project%20Management/Team%20Management.md)  
+  - [Resource Management](/Managerial/Project%20Management/Resource%20Management.md)
  
 ## Technical Concepts
-- [Technical Questions](#technical-questions)
-  - [Programming Languages](#programming-languages)
-    - [General](#general) 
-    - [JavaScript](#javascript)
-    - [PHP](#php)
-  - [Web Development](#web-development)    
-    - [General Questions](#general-questions)
-    - [Front End](#front-end)
-    - [Theory](#theory)
-  - [CS Concepts](#cs-concepts)    
-    - [Algorithms](#algorithms)
-    - [Data Structures](#data-structures)
-    - [Time Complexity](#time-complexity)
-  - [Past Projects](#past-projects)
+#### [Programming Languages](/Technical/Programming%20Languages)
+  - [General](/Technical/Programming%20Languages/General.md) 
+  - [JavaScript](/Technical/Programming%20Languages/JavaScript.md)
+  - [PHP](/Technical/Programming%20Languages/PHP.md)
+#### [Web Development](/Technical/Web%20Development)    
+  - [General Questions](/Technical/Web%20Development/General%20Questions.md)
+  - [Front End](/Technical/Web%20Development/Front%20End.md)
+  - [Theory](/Technical/Web%20Development/Theory.md)
+#### [CS Concepts](#cs-concepts)    
+  - [Algorithms](/Technical/CS%20Concepts/Algorithms.md)
+  - [Data Structures](/Technical/CS%20Concepts/Data%20Structure.md)
+  - [Time Complexity](/Technical/CS%20Concepts/Time%20Complexity.md)
+#### [Past Projects](/Technical/Past%20Projects)
+  - [WGU BS - Computer Science projects](/Technical/Past%20Projects/WGU-CS_Grad-Projects.md)
  
  ## Interviewing The Company
-- [Reverse Interview Questions](#reverse-interview-questions)  
-  - [Company Culture & Values](#company-culture--values)
-  - [Role Expectations](#role-expectations)
-  - [Work Environment](#work-environment)  
-  - [Technology & Infrastructure](#technology--infrastructure)
+#### [Reverse Interview Questions](/Reverse%20Interview%20Questions)  
+  - [Company Culture & Values](/Reverse%20Interview%20Questions/Company%20Culture%20%26%20Core%20Values.md)
+  - [Role Expectations](/Reverse%20Interview%20Questions/Role%20Expectations.md)
+  - [Work Environment](/Reverse%20Interview%20Questions/Work%20Environment.md)  
+  - [Technology & Infrastructure](/Reverse%20Interview%20Questions/Technology%20%26%20Infrastructure.md)
  
  ## Additional Resources  
-- [Resume Guides](#resources)
+- [Resume Guides](/Resources.md)
  
