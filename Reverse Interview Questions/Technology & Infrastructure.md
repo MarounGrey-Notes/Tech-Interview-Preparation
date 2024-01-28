@@ -14,3 +14,6 @@ Is it only on the coding level or are developers involved in the design? If desi
 
 ### Who get's called when software breaks at 3am? Why?
 This is a great opportunity to look how the company values the personal time of the employees and how they act when something breaks.
+
+### (for medium and big companies on site) Given new machine, can new engineer download, build and run all code in less then 30 mins? If not, what's stopping them?
+Sneaky way of checking if there are any signs of chaos within company's IT department,
