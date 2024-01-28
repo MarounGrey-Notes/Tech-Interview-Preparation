@@ -70,6 +70,21 @@
 
 ❌ We usually eat at our desks while working. Taking a full lunch hour is frowned upon when things are busy. (Not having space for breaks or boundaries between work/personal life is unhealthy.)
 
+# How often is overtime work expected?
+✅ Overtime is rare here and fully optional. Leadership values maintaining a sustainable pace and work-life balance.
+
+❌ Our "always on" client-focused culture means 50+ hour work weeks are typical and weekend work is standard during busy periods and releases.
+
+# How do you handle promotions and advancements for top talent?
+✅ We have defined grade levels, competencies and pathways mapped for growth in engineering and tech strategy roles. Top performers get visibility through our talent review program.
+
+❌ Our start-up culture means titles and roles are very fluid. Even stellar performers tend to get assigned more work rather than clear promotions. Company first, personal career second.
+
+# How do you handle being understaffed on key projects?
+✅ Leadership owns this and makes the hard resourcing decisions to reprioritize or descope existing commitments to fit team bandwidth. Your project scope is protected.
+
+❌ When understaffed, we expect team heroes to step up with extra hours and weekends as needed until the next hire comes on board. Plans stretch to meet commitments by any means.
+
 
 
 
