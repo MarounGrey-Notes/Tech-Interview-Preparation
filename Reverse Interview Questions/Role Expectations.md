@@ -14,3 +14,9 @@ This question can provide insides into the employer's priorities and potential i
 If the manager sets the deadline its a red flag. Only developers know how long something will take to implement changes. The correct answer should be that the developers and manager/business comes to an agreement what a reasonable deadline would be where they consider time to market, scope and balance it with everything else going on.
 
 ### How do you normally propagate status updates to your managers and stakeholders?
+### What does your onboarding process looks like?
+### How big is the team?
+### How many hours a week do you expect this role to spend in meetings? What is your meeting culture like?
+### What are the day to day responsobilities? || Can you describe the typical work day / work week?
+### Who prioritises what's being worked on? And what is the process for this?
+
