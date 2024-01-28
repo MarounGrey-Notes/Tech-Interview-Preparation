@@ -17,3 +17,7 @@
 ## What tools and techniques do you use for debugging JavaScript code?
 
 ## What language features were recently added to JavaScript? Explain any one briefly.
+
+## How does the DOM (Document Object Model) work?
+
+## Explain event handling in JavaScript and common events like click, change etc.
