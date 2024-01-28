@@ -1,5 +1,6 @@
 # Reverse Interview
-**Top 3 reverse questions:**
+**Top 4 reverse questions:**
+* What attracted you personally to work here?*
 * Can you describe the typical work day / work week?
 * If I get hired, what do you expect for me to achieve on 30/60/90 days working here?
 * How does the management track performance? What steps are taken to help employees to reach their goals?
