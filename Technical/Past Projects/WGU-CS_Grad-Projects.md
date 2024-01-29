@@ -63,15 +63,7 @@ Going forward, I could enhance by tracking revenue data, implementing dashboards
 --------
 ### Glossary
 
-**Database** - An organized collection of data stored and accessed electronically from a computer system.
-
-**Table** - A set of data elements organized in rows and columns in a database.
-
-**Field** - A column in a database table that contains a specific attribute for the rows.
-
 **Query** - A request for data from a database table.
-
-**Transform** - To convert or change data from one format or structure to another.
 
 **Function** - A reusable block of SQL code that performs a specific task.
 
@@ -79,15 +71,6 @@ Going forward, I could enhance by tracking revenue data, implementing dashboards
 
 **Stored Procedure** - A reusable and executable SQL code block stored on the database server.
 
-**Automate** - To configure systems or software to run recurring tasks automatically without manual intervention.
-
-**Refresh** - To update data in a table or report with any new or changed information from the source.
-
-**Scheduled Task** - A computer program action set to run automatically at a specified time interval.
-
-**Reporting** - Creating views and visualizations that explain trends in business data.
-
-**Dashboard** - A data visualization tool that displays key report metrics and data points on a single screen.
 
 --------
 
@@ -123,8 +106,6 @@ If I were to further improve this, ideas are:
 
 **Hash Table** - A data structure that maps unique keys to values for efficient lookup and access.
 
-**Package Data** - Information associated with each package like delivery address, deadline, weight, status etc.
-
 **Distance Matrix** - A table containing mileage between different location pairs. Helps calculate optimized routes.
 
 **Interface** - The user-facing part of a software system for viewing data and accessing functionality.
@@ -138,5 +119,76 @@ If I were to further improve this, ideas are:
 **Object Oriented Programming** - A programming paradigm based on objects that contain data and behaviors defined by class templates.
 
 --------
+
+# Java Frameworks
+
+The goal of this project was to customize an existing inventory management web application for a specific customer's needs. The customer sells products made up of multiple component parts.
+
+To start, I cloned the provided Spring/Java codebase and set up version control with Git. I documented my changes in the README.
+
+First, I customized the HTML user interface - I updated the shop name, product names, and part names to match my chosen customer. I also added an "About" page to describe the company.
+
+Next, I populated the database with sample data - 5 products made up of 5 parts. I ensured no duplicate parts could be added and handled that case by creating "multi-pack" groupings.
+
+Then I added a "Buy Now" button to the product listings that decrements the inventory when clicked. It displays success/failure messages to the user.
+
+A key customization was enhancing part tracking. I added max/min inventory fields and integrated those into the UI forms and validation logic. The app now prevents out-of-range part quantities.
+
+Speaking to process - I used Git for version control, splitting work into small commits associated with prompt tasks. I leveraged unit testing on the new inventory fields. And I tweaked the data persistence layer as needed throughout.
+
+In summary, I took an existing inventory system and customized it to meet a fictional customer's specifications by altering the UI, adding business logic, expanding data modeling, and enhancing validation. My changes demonstrated core software development and maintenance skills.
+
+# Java
+The goal was to migrate a critical part of a 1990s vintage vacation booking system to a modern Spring framework, improving reliability and maintainability.
+
+I started by initializing a Spring Boot project and setting up persistence with JPA/Hibernate and MySQL. I structured the codebase into separate controller, service, DAO and entity layers.
+
+A key task was modeling the domain -  I created entity classes for Customer, VacationPackage, Excursion etc. based on the provided UML diagram. I enabled CRUD repositories for these using Spring Data REST.
+
+On the service layer, I wrote a checkout workflow that handles cart and order abstractions. The controllers expose a REST endpoint for this checkout flow.
+
+Throughout the process, I leveraged Git for version control, committing frequently as I completed prompt tasks. I also built in input validation and added test data.
+
+To validate the implementation, I integrated with the existing Angular booking UI. I verified I could walk through the booking workflow end-to-end without errors, and confirmed the data was persisted correctly.
+
+In summary, I successfully created a modern Spring microservice that mimics legacy booking functionality. This serves as an incrementally adoptable replacement for the outdated system. My work helped reduce risk for the customer by proving the viability of a migration.
+
+------
+### Glossary
+
+Spring Framework - The modern Java framework chosen to replace the legacy back-end code. Promotes maintainability and reliability compared to old system.
+
+Microservice - The new Spring back-end code is deployed as a standalone microservice, focused on specific booking workflow functions. Enables independent upgrades.
+
+MVP - Minimum Viable Product. The initial simple "version one" of the new Spring microservice containing just enough functionality to showcase feasibility of the migration approach.
+
+CRUD - Create, Read, Update, Delete. Basic data persistence operations exposed from the Spring back-end on booking entities like customers and vacation packages.
+
+JPA/Hibernate - Java frameworks used by Spring for abstracting and simplifying database access, keeping entity code cleanly separated from SQL.
+
+------
+
+# Advanced Java
+
+The goal was to enhance an existing Spring/Angular hotel booking application to support multiple languages and currencies per new management requirements.
+
+I started by setting up Git version control and cloning the codebase. I then tackled the tasks of internationalizing the welcome message and prices displayed.
+
+For localization, I created English and French resource bundles containing translated strings. I loaded these in different threads to demonstrate concurrent language support.
+
+For internationalization, I updated the front-end to show US dollar, Canadian dollar and Euro prices. This prepares the app for global customers.
+
+I also added time zone handling by writing a method to convert between Eastern, Mountain and UTC zones. I displayed a sample message with a hotel event time rendered in all three zones.
+
+Towards deployability, I containerized the app using Docker. After testing locally, I described how I would deploy to a cloud provider - likely AWS Elastic Beanstalk to run the containerized workload.
+
+Throughout, I focused on frequent commits associated with prompt tasks and left a README trail for my changes. I kept the revised code consistent with Angular/Spring best practices.
+
+In summary, I successfully localized and internationalized this app by layering in language, currency, time zone and containerization support. This positions the product to be expanded globally in the future across new markets and geographies per the business needs.
+
+
+
+
+
 
 
