@@ -21,3 +21,18 @@ I once had to deliver [project/initiative] without sufficient guidelines for [co
 
 ## Tell me about a time you had to meet unclear or unrealistic expectations from a supervisor.
 When my boss gave me unclear or impossible project goals, I sat down with them immediately to crystalize the expectations. I asked lots of questions to get real specifics on what they wanted and by when. Any areas that were so out of bounds they set me up to fail, I politely pushed back but suggested more realistic options. By opening up a respectful give-and-take, instead of locking horns, we walked away aligned on what could actually get delivered well. 
+
+## Tell me about a time you had to adjust to changes over which you had no control. How did you handle this?
+A good example was when our team's priorities shifted suddenly due to [reason - new leadership, market conditions etc]. Though initially surprised, I quickly regrouped and re-prioritized my tasks. I set up [meeting, tracker etc] to understand the goals and rationale behind the changes. This allowed me to adapt fast while minimizing disruption to critical projects. By [actions], I drove effective alignment across affected groups.
+
+## Describe a situation when you had to solve a difficult problem. What did you do and what was the outcome?
+When our top client was dissatisfied with some of our services’ reporting features and considered leaving, I knew we needed to turn this around fast. After analyzing their frustrations and requirements, I led brainstorms to rapidly ideate potential features that would address the gaps. We developed an innovative solution involving [details] that would significantly improve their dashboard utility. This prototype thoroughly impressed the client in a presentation, and they ultimately signed expanded contracts thanks to this solution.
+
+## Have you ever had to convince a skeptical or resistant colleague about an idea? How did you go about it?
+When I proposed transitioning one of our team workflows to an automated system involving AI, several respected team members were extremely hesitant as they were unfamiliar with the technology. To convince them...[how you convinced them - data, prototypes, expert perspectives etc]. By patiently addressing concerns and emphasizing the benefits, I persuaded even initial skeptics to get fully on board. The rollout was a major success...
+
+## Give me an example of when you had to analyze facts quickly, define key issues, and respond immediately or develop a plan that yielded good results.
+When one of our key inventory systems went down unexpectedly, I immediately...[rapid response, investigation, and plan development]. I [quick actions] to understand failure points and identify the components needing repair. After estimating the timeline and costs to get things back up with minimum downtime, I...[develop and execute plan ensuring continuity till system online]. My swift analysis and coordinated response effort resolved the critical situation with remarkably minimal business impact.
+
+## Describe a time when you modified your preferred way of doing things to meet objectives. How did you handle this?
+Though I had several years of success using [preferred approach], our team needed to shift processes to accomodate [new constraints]. To align to the new imperatives...[how you adapted successfully]. By proactively modifying how I structured my work rather than clinging to prior norms, I was able to meet strategic objectives while setting an example for others to evolve workflows as well.
