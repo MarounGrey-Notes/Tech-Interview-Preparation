@@ -17,8 +17,8 @@ Whether you are a computer science student preparing to transition into the tech
   - [Introduction](/Behavioral/Introduction.md)
   - [Career Goals](/Behavioral/Career%20Goals.md) 
   - [Work Experience](/Behavioral/Work%20Experience.md)
-  - [Strengths & Weaknesses](/Strengths%20%26%20Weaknesses.md)
-  - [Overcoming Obstacles](/Behavioral/Overcoming%20Obsticles.md)
+  - [Strengths & Weaknesses](Behavioral/Strengths%20and%20Weaknesses.md)
+  - [Overcoming Obstacles](/Behavioral/Overcoming%20Obstacles.md)
   - [Compensation](/Behavioral/Compensation.md)
  
 #### [Logical Questions](/Logical)
