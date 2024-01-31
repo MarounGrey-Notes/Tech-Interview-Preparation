@@ -1,11 +1,11 @@
 # About Yourself
 
 ### Tell me about yourself.
-I have an educational background in [your field of study] and have been working in [your industry] for [X] years. I became interested in this field because [share a relevant experience or interest that drew you in]. In my current/past roles at [companies/organizations], I've enjoyed [aspects of your work] and have developed expertise in [your skills and accomplishments].
+I studied [your field] and have worked in [your industry] for [X] years. I got interested because [relevant experience]. In past roles at [companies], I enjoyed [aspects of work] and built expertise in [your skills].
 
-I’m drawn to this opportunity because I’m looking to develop my skills in [areas of interest tied to role] and believe my background makes me well-equipped to contribute to key initiatives around [goals/projects tied to role]. Most importantly, the chance to work on [type of work you enjoy] with [traits of company culture] is very appealing.
+I’m drawn to this opportunity because I’m looking to develop my skills in [areas of interest tied to role] and contribute to [goals/projects]. Most importantly, doing [type of work you enjoy] in a [company culture traits] excites me.
 
-Outside of work, I enjoy [X hobby] in my free time. I also love reading non-fiction books about [X].
+Outside of work, I enjoy [hobby] in my free time. I also love reading [book genre].
 
 ### Tell me about your professional background.
 My background in [field] started when [first experience]. Since then, I gained skills in [skill 1], [skill 2], [skill 3] through [examples]. My roles let me [accomplishments]. This experience makes me qualified.
