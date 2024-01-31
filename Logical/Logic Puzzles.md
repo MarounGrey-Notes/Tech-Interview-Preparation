@@ -68,4 +68,4 @@ Now, everyone is standing next to someone who shares their movie preference, so 
 4. Now, the second rope still has 30 minutes of burning time left, while the newly ignited end will take 30 minutes to burn completely.
 5. When the second rope's newly ignited end is burnt (15 minutes have passed since igniting it), stop the timer.
 6. You have now measured exactly 45 minutes using the two non-uniform burning ropes.
-7. 
+
