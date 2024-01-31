@@ -17,3 +17,5 @@ I successfully rebuilt an ecommerce business to deliver renewed competitive adva
 ### Describe a time when you had to Dive Deep into a complex problem or project. What steps did you take to understand it thoroughly, and what was the outcome?
 
 ### Tell me about a time when you had to think big and innovate at work, even when faced with limited resources or constraints. How did you approach the challenge?
+
+### How would you resolve a disagreement at a leadership level when leaders have very different approaches on the technology vision/architecture to solve a major company challenge?
