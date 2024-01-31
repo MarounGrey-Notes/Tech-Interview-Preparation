@@ -36,3 +36,5 @@ When one of our key inventory systems went down unexpectedly, I immediately...[r
 
 ### Describe a time when you modified your preferred way of doing things to meet objectives. How did you handle this?
 Though I had several years of success using [preferred approach], our team needed to shift processes to accomodate [new constraints]. To align to the new imperatives...[how you adapted successfully]. By proactively modifying how I structured my work rather than clinging to prior norms, I was able to meet strategic objectives while setting an example for others to evolve workflows as well.
+
+### Describe a project or task you've worked on that required you to think 'outside the box.' What was the outcome?
