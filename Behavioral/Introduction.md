@@ -8,10 +8,10 @@ I’m drawn to this opportunity because I’m looking to develop my skills in [a
 Outside of work, I enjoy [X hobby] in my free time. I also love reading non-fiction books about [X].
 
 ### Tell me about your professional background.
-My journey in [field] started when [entry point experience]. Since then, I have honed skills in [3-4 hard and soft skills] through experiences like [examples demonstrating those skills]. Myroles have equipped me to [accomplishments that make you qualified]. I believe this diverse experience has prepared me to excel in this position.
+My background in [field] started when [first experience]. Since then, I gained skills in [skill 1], [skill 2], [skill 3] through [examples]. My roles let me [accomplishments]. This experience makes me qualified.
 
 ### What got you interested in this field?
-I've always [valued or been fascinated by core aspects of the field]. [Anecdote about early exposure or moment of realizing your passion]. As I learned more through [education and opportunities], I knew I wantedto apply my [strengths and interests] to contribute to [purpose in the field/company mission]. The chance to [what attractsan applicant to the specific open position] made me confident in pursuing this direction.
+I've always [valued/been fascinated by the field]. [Anecdote about early exposure]. As I learned more through [education], I knew I wanted to apply my [strengths/interests] to contribute to [purpose]. The chance to [what attracts you here] made me confident to pursue this.
 
 # About the Role
 
@@ -33,10 +33,10 @@ I'm exploring a change because I'm looking to expand my impact and utilize more 
 # Sales Pitch
 
 ### Why should we hire you?
-Along with domain knowledge in [field], qualities like [soft skills and cultural adds] allow me to [accomplish hard objectives] while [collaborating, creativity etc]. More so, I have passion for [company mission] and believe my skills in [relevant strengths] would enable me to not only execute individually but enhance team success from day one. Please let me know if you have any other questions!
+I have knowledge in [field] and qualities like [soft skills] to [accomplish goals] while [collaborating]. I have passion for [company mission] and believe my [strengths] would enable individual and team success.
 
 ### What unique value can you bring to our organization?
-In addition to my proven skills in [hard abilities], I believe my passions for [type of work] and [soft skills] like [collaboration, creativity etc] would lead me to deliver value. More so, eagerness to help team members succeed and commitment to the organization’s goals are ingrained in me. I would leverage all of that to positively impact my team right away through [concrete contributions].
+In addition to proven [hard skills], I believe my passion for [work] and [soft skills] would deliver value. Eagerness to help team members and commitment to goals are ingrained in me. I would leverage all that for positive impact.
 
 ### How will you contribute to our team's success?
-With strengths in [tactical abilities] developed through [past experience], I know I could directly enhance processes like [relevant objectives]. But more importantly, I would contribute through [cultural adds, cohesion, positivity] - helping lead new initiatives, unblocking teammates, and collaborating creatively to solve problems. My diversity of thought and willingness to take on unofficial roles would lead me to drive outsized positive impact.
+With strengths in [tactical abilities] from [experience], I could enhance [objectives]. But more so, I would contribute through [cultural adds] - leading initiatives, unblocking teammates, and collaborating creatively. My diversity of thought and willingness would drive outsized positive impact.
