@@ -79,20 +79,23 @@ Covers company-specific expertise for key interviews, such as Amazon and Meta.
 
 ## Technical Knowledge
 Tests software engineering, information technology, web development, and computer science knowledge and abilities.
-#### [Programming Languages](/Technical%20Knowledge/Programming%20Languages)
-  - [General](/Technical%20Knowledge/Programming%20Languages/General.md) 
-  - [JavaScript](/Technical%20Knowledge/Programming%20Languages/JavaScript.md)
-  - [PHP](/Technical%20Knowledge/Programming%20Languages/PHP.md)
-#### [Web Development](/Technical%20Knowledge/Web%20Development)    
-  - [General Questions](/Technical%20Knowledge/Web%20Development/General%20Questions.md)
-  - [Front End](/Technical%20Knowledge/Web%20Development/Front%20End.md)
-  - [Theory](/Technical%20Knowledge/Web%20Development/Theory.md)
-#### [CS Concepts](/Technical%20Knowledge/CS%20Concepts)    
-  - [Algorithms](/Technical%20Knowledge/CS%20Concepts/Algorithms.md)
-  - [Data Structures](/Technical%20Knowledge/CS%20Concepts/Data%20Structure.md)
-  - [Time Complexity](/Technical%20Knowledge/CS%20Concepts/Time%20Complexity.md)
-#### [Past Projects](/Technical%20Knowledge/Past%20Projects)
-  - [WGU BS - Computer Science projects](/Technical%20Knowledge/Past%20Projects/WGU-CS_Grad-Projects.md)
+### [Business Analysis & Tools](/Technical%20Knowledge/Business%20Analysis%20&%20Tools)
+#### [Data Analytics](/Technical%20Knowledge/Business%20Analysis%20&%20Tools/Data%20Analytics)
+#### [Digital Marketing](/Technical%20Knowledge/Business%20Analysis%20&%20Tools/Digital%20Marketing)
+#### [Financial Analysis](/Technical%20Knowledge/Business%20Analysis%20&%20Tools/Financial%20Analysis)
+#### [Platforms & Product Knowledge](/Technical%20Knowledge/Business%20Analysis%20&%20Tools/Platforms%20&%20Product%20Knowledge)
+#### [Web Design](/Technical%20Knowledge/Business%20Analysis%20&%20Tools/Web%20Design)
+
+### [Technology & Development](/Technical%20Knowledge/Technology%20&%20Development)
+#### [Cloud & Infrastructure](/Technical%20Knowledge/Technology%20&%20Development/Cloud%20&%20Infrastructure)
+#### [Database Technology](/Technical%20Knowledge/Technology%20&%20Development/Database%20Technology)
+#### [IT Support & Troubleshooting](/Technical%20Knowledge/Technology%20&%20Development/IT%20Support%20&%20Troubleshooting)
+#### [Programming Languages & Concepts](/Technical%20Knowledge/Technology%20&%20Development/Programming%20Languages%20&%20Concepts)
+#### [Security Systems & Protocols](/Technical%20Knowledge/Technology%20&%20Development/Security%20Systems%20&%20Protocols)
+#### [Software Testing](/Technical%20Knowledge/Technology%20&%20Development/Software%20Testing)      
+#### [Web & Mobile Development](/Technical%20Knowledge/Technology%20&%20Development/Web%20&%20Mobile%20Development)    
+
+  
 
  
 ## Interviewing The Company
@@ -106,4 +109,4 @@ Prepares candidates to assess company culture, values, and workforce conditions.
  ## Additional Resources
  Offers helpful guides on resumes, portfolios, and other application materials.
 - [Resume Guides](/Resources.md)
- 
+- [WGU BS - Computer Science projects](/Technical%20Knowledge/Past%20Projects/WGU-CS_Grad-Projects.md)
