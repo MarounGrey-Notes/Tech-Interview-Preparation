@@ -8,6 +8,10 @@ This guide helps job seekers master the make or break interview by providing go-
 
 # Table of Contents
 
+## Getting Interviews
+### [Getting Interviews](/Getting%20Interviews)
+- [Resume Tips](/Getting%20Interviews/Resume.md)
+
 ## Screening
 Contains foundational screening questions on behavioral, analytical, and cognitive skills.
 ###  [Initial Screening](/Initial%20Screening)
@@ -108,5 +112,5 @@ Prepares candidates to assess company culture, values, and workforce conditions.
  
  ## Additional Resources
  Offers helpful guides on resumes, portfolios, and other application materials.
-- [Resume Guides](/Resources.md)
+
 - [WGU BS - Computer Science projects](/Technical%20Knowledge/Past%20Projects/WGU-CS_Grad-Projects.md)
