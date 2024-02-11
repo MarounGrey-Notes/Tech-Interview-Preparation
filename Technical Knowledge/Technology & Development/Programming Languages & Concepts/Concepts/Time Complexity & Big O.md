@@ -1,3 +1,9 @@
+# Big O notation and Time Complexity
+![Big O Complexity Chart](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpaper-attachments.dropbox.com%2Fs_2D428973624E7FC84C7D69D11421DE762BEA6B6F3361231FCDCAE0425D14526F_1664885448372_Untitled.drawio%2B17.png&f=1&nofb=1&ipt=a2ee11d26a5471e4c70928836d3a7b33785f35d951f2f00dc509a86d3442e2b0&ipo=images)
+
+CheatSheet: https://zerotomastery.io/cheatsheets/big-o-cheat-sheet/?utm_source=udemy&utm_medium=coursecontent
+
+
 ## Describe the time and space complexity analysis of algorithms. Explain Big O notation.
 ##### Simple Answer
 Time complexity measures how fast an algorithm runs as input size grows. Space complexity measures memory usage. Big O notation describes complexity - O(n) means linear growth in time. This helps compare algorithms.

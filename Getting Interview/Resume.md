@@ -62,3 +62,30 @@ Once you begin a new job, create a private document to log all of your major wor
 - It enables you to readily showcase important initiatives you have led or participated in when meeting with your manager to discuss promotion opportunities. Rather than scrambling to gather your "best hits" for self-advocacy conversations, you'll have a master list ready to impress.
 
 The key is maintaining this document privately over time (like in a personal cloud account not affiliated with your employer). As you progress in your role, continue adding to it so you always have compelling evidence of your value. This investment makes resume-writing and promotion discussions much less stressful when those key moments arise.
+### Email Hack
+https://chromewebstore.google.com/detail/hunter-email-finder-exten/hgmhmanijnjhaffoampdlllchpolkdnj?hl=en
+https://chromewebstore.google.com/detail/find-anyones-email-contac/jjdemeiffadmmjhkbbpglgnlgeafomjo?hl=en
+https://chromewebstore.google.com/detail/email-extractor/jdianbbpnakhcmfkcckaboohfgnngfcc?hl=en
+
+Hey $BOB,
+I saw your presentation at $CONFERENCE last year on Youtube (rr point to some work they have done).
+Great stuff; loved what you did with $FOO, in particular
+$COMMENT_PROVING_YOU_KNOW_WHAT_YOU'RE_TALKING_ABOUT.
+I'm also a $FOO developer. I noticed that your company is hiring
+or $ROLE. I’d love to be a part of your team. Do you have a
+few minutes to chat on Thursday about what you guys are doing?
+ 
+Thanks,
+Yourname
+Your website or any public profile link\
+
+# Where to find jobs?
+LinkedIn
+Indeed
+Hackernews Who is Hiring
+AngelList
+Weworkremotelyy.com/https://remoteok.io/
+Triplebyte/Hired.ca/Whitetrufle (companies reaching out to hire devs)
+[Google search] site:linkedin.com facebook recruiter
+
+
