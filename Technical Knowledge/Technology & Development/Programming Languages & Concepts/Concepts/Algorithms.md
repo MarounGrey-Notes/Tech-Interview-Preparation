@@ -1,3 +1,10 @@
+# Which Algorithms to know
+- Sorting
+- Dynamic Programming
+- BFS + DFS (Searching)
+- Recursion
+
+
 ## Explain what an algorithm is and why algorithms are important in software engineering.
 ##### Simple Answer
 An algorithm is a step-by-step process to solve problems. Algorithms help write efficient code that runs fast with large amounts of data.

@@ -1,3 +1,13 @@
+# Which Data Structures to Know
+- Arrays
+- Stacks
+- Queue
+- Linked Lists
+- Trees
+- Tries
+- Graphs
+- Hash Tables
+
 ## Compare and contrast arrays and linked lists - strengths, weaknesses, when to use which.
 
 Arrays allow fast access/lookup by index but insertion/deletion is costly. Linked list insertion/deletion just updates the links, so it's faster, but lookup requires traversal.
